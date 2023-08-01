@@ -1,0 +1,7 @@
+E:\Freelancer\BetFair_Arb\API-NG-sample-code-master\API-NG-sample-code-master\cSharp\Api-ng-sample-code\Api-ng-sample-code\bin\Debug\Api-ng-sample-code.exe
+E:\Freelancer\BetFair_Arb\API-NG-sample-code-master\API-NG-sample-code-master\cSharp\Api-ng-sample-code\Api-ng-sample-code\bin\Debug\Api-ng-sample-code.pdb
+E:\Freelancer\BetFair_Arb\API-NG-sample-code-master\API-NG-sample-code-master\cSharp\Api-ng-sample-code\Api-ng-sample-code\bin\Debug\Newtonsoft.Json.dll
+E:\Freelancer\BetFair_Arb\API-NG-sample-code-master\API-NG-sample-code-master\cSharp\Api-ng-sample-code\Api-ng-sample-code\bin\Debug\Newtonsoft.Json.pdb
+E:\Freelancer\BetFair_Arb\API-NG-sample-code-master\API-NG-sample-code-master\cSharp\Api-ng-sample-code\Api-ng-sample-code\obj\x86\Debug\Api-ng-sample-code.csprojResolveAssemblyReference.cache
+E:\Freelancer\BetFair_Arb\API-NG-sample-code-master\API-NG-sample-code-master\cSharp\Api-ng-sample-code\Api-ng-sample-code\obj\x86\Debug\Api-ng-sample-code.exe
+E:\Freelancer\BetFair_Arb\API-NG-sample-code-master\API-NG-sample-code-master\cSharp\Api-ng-sample-code\Api-ng-sample-code\obj\x86\Debug\Api-ng-sample-code.pdb

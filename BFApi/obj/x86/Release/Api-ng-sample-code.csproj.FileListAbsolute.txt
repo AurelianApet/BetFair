@@ -1,0 +1,6 @@
+E:\Freelancer\BetFair_Arb\BFTradeCopier\BFApi\bin\Release\Api-ng-sample-code.exe
+E:\Freelancer\BetFair_Arb\BFTradeCopier\BFApi\bin\Release\Api-ng-sample-code.pdb
+E:\Freelancer\BetFair_Arb\BFTradeCopier\BFApi\bin\Release\Newtonsoft.Json.dll
+E:\Freelancer\BetFair_Arb\BFTradeCopier\BFApi\bin\Release\Newtonsoft.Json.pdb
+E:\Freelancer\BetFair_Arb\BFTradeCopier\BFApi\obj\x86\Release\Api-ng-sample-code.exe
+E:\Freelancer\BetFair_Arb\BFTradeCopier\BFApi\obj\x86\Release\Api-ng-sample-code.pdb

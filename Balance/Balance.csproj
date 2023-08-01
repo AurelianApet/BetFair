@@ -1,0 +1,189 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{6FE7718F-9C36-4541-A9A1-E8C185B63344}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Balance</RootNamespace>
+    <AssemblyName>Balance</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>logo.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BeloSoft.Betfair.API, Version=2.0.6121.16800, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Release\BeloSoft.Betfair.API.dll</HintPath>
+    </Reference>
+    <Reference Include="BeloSoft.Data">
+      <HintPath>..\BFApi\bin\Debug\BeloSoft.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="BFApi">
+      <HintPath>..\BFApi\bin\Debug\BFApi.dll</HintPath>
+    </Reference>
+    <Reference Include="FSharp.Core, Version=4.4.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="HtmlAgilityPack">
+      <HintPath>..\SbobetBot\bin\Debug\HtmlAgilityPack.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CBetfairAPI.cs" />
+    <Compile Include="frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.Designer.cs">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoginResult.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Sbobet.cs" />
+    <Compile Include="Settings.cs" />
+    <Compile Include="Web References\betfair.api.exchange\Reference.cs" />
+    <Compile Include="Web References\betfair.api.global\Reference.cs" />
+    <EmbeddedResource Include="frmMain.resx">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="Web References\betfair.api.exchange\BFExchangeService.wsdl" />
+    <None Include="Web References\betfair.api.exchange\CancelBetsByMarketResp.datasource" />
+    <None Include="Web References\betfair.api.exchange\CancelBetsResp.datasource" />
+    <None Include="Web References\betfair.api.exchange\GetAccountFundsResp.datasource" />
+    <None Include="Web References\betfair.api.exchange\GetAccountStatementResp.datasource" />
+    <None Include="Web References\betfair.api.exchange\GetAllMarketsResp.datasource" />
+    <None Include="Web References\betfair.api.exchange\GetBetHistoryResp.datasource" />
+    <None Include="Web References\betfair.api.exchange\GetBetLiteResp.datasource" />
+    <None Include="Web References\betfair.api.exchange\GetBetMatchesLiteResp.datasource" />
+    <None Include="Web References\betfair.api.exchange\GetBetResp.datasource" />
+    <None Include="Web References\betfair.api.exchange\GetCompleteMarketPricesCompressedResp.datasource" />
+    <None Include="Web References\betfair.api.exchange\GetCouponResp.datasource" />
+    <None Include="Web References\betfair.api.exchange\GetCurrentBetsLiteResp.datasource" />
+    <None Include="Web References\betfair.api.exchange\GetCurrentBetsResp.datasource" />
+    <None Include="Web References\betfair.api.exchange\GetDetailedAvailableMktDepthResp.datasource" />
+    <None Include="Web References\betfair.api.exchange\GetInPlayMarketsResp.datasource" />
+    <None Include="Web References\betfair.api.exchange\GetMarketInfoResp.datasource" />
+    <None Include="Web References\betfair.api.exchange\GetMarketPricesCompressedResp.datasource" />
+    <None Include="Web References\betfair.api.exchange\GetMarketPricesResp.datasource" />
+    <None Include="Web References\betfair.api.exchange\GetMarketProfitAndLossResp.datasource" />
+    <None Include="Web References\betfair.api.exchange\GetMarketResp.datasource" />
+    <None Include="Web References\betfair.api.exchange\GetMarketTradedVolumeCompressedResp.datasource" />
+    <None Include="Web References\betfair.api.exchange\GetMarketTradedVolumeResp.datasource" />
+    <None Include="Web References\betfair.api.exchange\GetMUBetsLiteResp.datasource" />
+    <None Include="Web References\betfair.api.exchange\GetMUBetsResp.datasource" />
+    <None Include="Web References\betfair.api.exchange\GetPrivateMarketsResp.datasource" />
+    <None Include="Web References\betfair.api.exchange\GetSilksResp.datasource" />
+    <None Include="Web References\betfair.api.exchange\GetSilksV2Resp.datasource" />
+    <None Include="Web References\betfair.api.exchange\HeartbeatResp.datasource" />
+    <None Include="Web References\betfair.api.exchange\PlaceBetsResp.datasource" />
+    <None Include="Web References\betfair.api.exchange\Reference.map" />
+    <None Include="Web References\betfair.api.exchange\UpdateBetsResp.datasource" />
+    <None Include="Web References\betfair.api.global\AddPaymentCardResp.datasource" />
+    <None Include="Web References\betfair.api.global\BFGlobalService.wsdl" />
+    <None Include="Web References\betfair.api.global\ConvertCurrencyResp.datasource" />
+    <None Include="Web References\betfair.api.global\CreateAccountResp.datasource" />
+    <None Include="Web References\betfair.api.global\DeletePaymentCardResp.datasource" />
+    <None Include="Web References\betfair.api.global\DepositFromPaymentCardResp.datasource" />
+    <None Include="Web References\betfair.api.global\ForgotPasswordResp.datasource" />
+    <None Include="Web References\betfair.api.global\GetCurrenciesResp.datasource" />
+    <None Include="Web References\betfair.api.global\GetCurrenciesV2Resp.datasource" />
+    <None Include="Web References\betfair.api.global\GetEventsResp.datasource" />
+    <None Include="Web References\betfair.api.global\GetEventTypesResp.datasource" />
+    <None Include="Web References\betfair.api.global\GetPaymentCardResp.datasource" />
+    <None Include="Web References\betfair.api.global\GetSubscriptionInfoResp.datasource" />
+    <None Include="Web References\betfair.api.global\KeepAliveResp.datasource" />
+    <None Include="Web References\betfair.api.global\LoginResp.datasource" />
+    <None Include="Web References\betfair.api.global\LogoutResp.datasource" />
+    <None Include="Web References\betfair.api.global\ModifyPasswordResp.datasource" />
+    <None Include="Web References\betfair.api.global\ModifyProfileResp.datasource" />
+    <None Include="Web References\betfair.api.global\Reference.map" />
+    <None Include="Web References\betfair.api.global\RetrieveLIMBMessageResp.datasource" />
+    <None Include="Web References\betfair.api.global\SelfExcludeResp.datasource" />
+    <None Include="Web References\betfair.api.global\SetChatNameResp.datasource" />
+    <None Include="Web References\betfair.api.global\SubmitLIMBMessageResp.datasource" />
+    <None Include="Web References\betfair.api.global\TransferFundsResp.datasource" />
+    <None Include="Web References\betfair.api.global\UpdatePaymentCardResp.datasource" />
+    <None Include="Web References\betfair.api.global\ViewProfileResp.datasource" />
+    <None Include="Web References\betfair.api.global\ViewProfileV2Resp.datasource" />
+    <None Include="Web References\betfair.api.global\ViewReferAndEarnResp.datasource" />
+    <None Include="Web References\betfair.api.global\WithdrawToPaymentCardResp.datasource" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Image\Close.png" />
+    <Content Include="Image\Exit.png" />
+    <Content Include="Image\logo.png" />
+    <Content Include="Image\Log_Title.png" />
+    <Content Include="Image\Start.png" />
+    <Content Include="Image\Stop.png" />
+    <Content Include="logo.ico" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

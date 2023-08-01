@@ -1,0 +1,2273 @@
+
+<!DOCTYPE html>
+
+<html class="webkit webkit51-0" lang="en">
+    <head id="Head1">
+        <script src="//cdn.optimizely.com/js/346289218.js"></script>
+        <meta charset="utf-8" />
+        <script type="text/javascript">
+            var wtStartLoadTime = new Date().getTime();
+            var wtLoadTime = null;
+        </script>
+        
+        <script type="text/javascript">
+                top.dataLayer = [
+                    {
+                        'LoginStatus': 'LoggedIn',
+                        'GUID': '4bbeb85d-6936-40cc-a11e-6dc2c8c4a0a6',
+                        'Platform': 'Desktop',
+                        'Language': 'EN',
+                        'Country': '',
+                        'LobbyName': 'Sportsbook',
+                        'PageType': 'Brand'
+                    }
+                ];
+        </script>
+        
+        <link media="all" type="text/css" rel="StyleSheet" href="https://bps-cdn-level3.bpsgameserver.com/v2/bgr/Nordicbet/Common/en/df/2016/09/df_MasterCSS_v4870.css" />
+        <link media="all" type="text/css" rel="StyleSheet" href="https://bps-cdn-level3.bpsgameserver.com/v2/bgr/Nordicbet/Common/en/df/2016/09/df_MasterCSSDynamic_v229095.css" />
+        
+        
+        
+        
+        <script src="https://bps-cdn-level3.bpsgameserver.com/v2/bgr/Nordicbet/Sportsbook/en/df/2016/09/df_Techsson.Javascript_v4509.js"></script>   
+         
+        <script type="text/javascript" src="https://bps-cdn-level3.bpsgameserver.com/v2/bgr/Nordicbet/Common/en/df/2016/09/df_FontLibrary_en_v496.Js"></script>
+        <script src="https://bps-cdn-level3.bpsgameserver.com/v2/bgr/Nordicbet/Sportsbook/en/df/2016/09/df_Techsson_v4618.js"></script>
+        <link rel="icon" type="image/x-icon" href="https://bps-cdn-level3.bpsgameserver.com/v2/bgr/Nordicbet/Common/neutral/image/2015/10/icons.favicon_v3.ico" />
+        <link rel="shortcut icon" type="image/x-icon" href="https://bps-cdn-level3.bpsgameserver.com/v2/bgr/Nordicbet/Common/neutral/image/2015/10/icons.favicon_v3.ico" />
+        
+        <link rel="alternate" hreflang="EN-GB" href="https://www.nordicbet.com/en/odds" />
+<link rel="alternate" hreflang="EN" href="https://www.nordicbet.com/en/odds" />
+<link rel="alternate" hreflang="SV" href="https://www.nordicbet.com/sv/odds" />
+<link rel="alternate" hreflang="NO" href="https://www.nordicbet.com/no/odds" />
+<link rel="alternate" hreflang="FI" href="https://www.nordicbet.com/fi/vedonlyönti" />
+<link rel="alternate" hreflang="CS" href="https://www.nordicbet.com/cs/odds" />
+<link rel="alternate" hreflang="DE" href="https://www.nordicbet.com/de/quoten" />
+
+        
+        
+    
+    <title>Best odds in sport betting, livebets and in-play betting at NordicBet</title>
+<meta name="description" content="All the latest odds from NordicBet on all your favourite sports including football, ice hockey, tennnis, basketball and baseball. Take advantage of live and in-play betting" />
+
+<link rel="canonical" href="https://www.nordicbet.com/en/odds" />
+
+    
+    
+    <script src="https://bps-cdn-level3.bpsgameserver.com/v2/bgr/Nordicbet/Sportsbook/en/df/2016/09/df_prepack_sb_lobby_js_v484.js"></script> 
+    <link media="all" type="text/css" rel="StyleSheet" href="https://bps-cdn-level3.bpsgameserver.com/v2/bgr/Nordicbet/Sportsbook/en/df/2016/09/df_BrandCSS_v1325.css" /> 
+    
+
+        
+    </head>
+    <body>
+        
+
+<!-- Google Tag Manager -->
+<noscript>
+    <iframe src="//www.googletagmanager.com/ns.html?id=GTM-52S48B"
+            height="0" width="0" style="display: none; visibility: hidden"></iframe>
+</noscript>
+<script>
+    (function(w, d, s, l, i) {
+        w[l] = w[l] || [];
+        w[l].push({
+            'gtm.start':
+                new Date().getTime(),
+            event: 'gtm.js'
+        });
+        var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s),
+            dl = l != 'dataLayer' ? '&l=' + l : '';
+        j.async = true;
+        j.src =
+            '//www.googletagmanager.com/gtm.js?id=' + i + dl;
+        f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-52S48B');
+</script>
+
+<!-- End Google Tag Manager -->
+        
+        <section id="site"> 
+            <!--[if lt IE 7]>
+                <div class="alertbar"></div>
+            <![endif]-->
+            <header class="main">
+            <div class="gradient-blue imageheader">
+                    <div class="sitewidth">
+                        <!-- Login control -->
+                        <ul class="modules">
+        
+<section id="accountAreaSection" class="account accountloggedin" data-guid="4bbeb85d-6936-40cc-a11e-6dc2c8c4a0a6" data-tracking="module:accountloggedin">
+    <nav>
+        <ul class="accountarea">
+            <li class="accountareaitem clock"><span class="clock"></span></li>
+            <li class="markets accountareaitem dropdownparent">
+                
+<a class="togglemarketselect toggledropdown" href="javascript:;" data-testid="accountAreaMarketDropdown">
+    <span title="English">
+        <span>
+            <img class="languageFlagActive"src="https://bps-cdn-level3.bpsgameserver.com/v2/bgr/Nordicbet/Common/neutral/image/2015/09/a7f42d3a33ad48c0b1aebd5d17960d21.png" alt="English" /></span>
+        <span class="arrow icon-arrow-thin-down"></span>
+    </span>
+</a>
+<section class="markets module dropdown">
+    <div class="dropdownarrow"></div>
+    
+            <ul>
+        
+            <li class="fi ">
+                <a href="https://www.nordicbet.com/fi/vedonlyönti" title="Suomi"
+                    onclick="Techsson.web.General.SetMarketCookie('fi')">
+                    <div>
+                        <img class="languageFlagOption" src="https://bps-cdn-level3.bpsgameserver.com/v2/bgr/Nordicbet/Common/neutral/image/2015/09/45844e8ea07d45c09765ef88271c5a00.png" alt="Suomi" />
+                        &nbsp;
+                        <span>Suomi</span>
+                    </div>
+                </a>
+            </li>
+        
+            <li class="sv ">
+                <a href="https://www.nordicbet.com/sv/odds" title="Svenska"
+                    onclick="Techsson.web.General.SetMarketCookie('sv')">
+                    <div>
+                        <img class="languageFlagOption" src="https://bps-cdn-level3.bpsgameserver.com/v2/bgr/Nordicbet/Common/neutral/image/2015/09/caa27853251c4443a14e0f4319e32990.png" alt="Svenska" />
+                        &nbsp;
+                        <span>Svenska</span>
+                    </div>
+                </a>
+            </li>
+        
+            <li class="no ">
+                <a href="https://www.nordicbet.com/no/odds" title="Norsk"
+                    onclick="Techsson.web.General.SetMarketCookie('no')">
+                    <div>
+                        <img class="languageFlagOption" src="https://bps-cdn-level3.bpsgameserver.com/v2/bgr/Nordicbet/Common/neutral/image/2015/09/125f7ea74d0043d4a9b9e756506811a9.png" alt="Norsk" />
+                        &nbsp;
+                        <span>Norsk</span>
+                    </div>
+                </a>
+            </li>
+        
+            <li class="en active">
+                <a href="https://www.nordicbet.com/en/odds" title="English"
+                    onclick="Techsson.web.General.SetMarketCookie('en')">
+                    <div>
+                        <img class="languageFlagOption" src="https://bps-cdn-level3.bpsgameserver.com/v2/bgr/Nordicbet/Common/neutral/image/2015/09/a7f42d3a33ad48c0b1aebd5d17960d21.png" alt="English" />
+                        &nbsp;
+                        <span>English</span>
+                    </div>
+                </a>
+            </li>
+        
+            <li class="cs ">
+                <a href="https://www.nordicbet.com/cs/odds" title="Cesky"
+                    onclick="Techsson.web.General.SetMarketCookie('cs')">
+                    <div>
+                        <img class="languageFlagOption" src="https://bps-cdn-level3.bpsgameserver.com/v2/bgr/Nordicbet/Common/neutral/image/2015/09/53e5df0594da4a039511bda83c353a58.png" alt="Cesky" />
+                        &nbsp;
+                        <span>Cesky</span>
+                    </div>
+                </a>
+            </li>
+        
+            <li class="de ">
+                <a href="https://www.nordicbet.com/de/quoten" title="Deutsch"
+                    onclick="Techsson.web.General.SetMarketCookie('de')">
+                    <div>
+                        <img class="languageFlagOption" src="https://bps-cdn-level3.bpsgameserver.com/v2/bgr/Nordicbet/Common/neutral/image/2015/09/d3b4aaa5bd5b4d23b5392e85f93257ea.png" alt="Deutsch" />
+                        &nbsp;
+                        <span>Deutsch</span>
+                    </div>
+                </a>
+            </li>
+        
+            <li class="ch ">
+                <a href="https://www.nordicbet.com/de/quoten" title="Deutsch"
+                    onclick="Techsson.web.General.SetMarketCookie('ch')">
+                    <div>
+                        <img class="languageFlagOption" src="https://bps-cdn-level3.bpsgameserver.com/v2/bgr/Nordicbet/Common/neutral/image/2015/09/453faccdece94bec89d6cb70d6b0e80d.png" alt="Deutsch" />
+                        &nbsp;
+                        <span>Deutsch</span>
+                    </div>
+                </a>
+            </li>
+        
+            <li class="at ">
+                <a href="https://www.nordicbet.com/de/quoten" title="Deutsch"
+                    onclick="Techsson.web.General.SetMarketCookie('at')">
+                    <div>
+                        <img class="languageFlagOption" src="https://bps-cdn-level3.bpsgameserver.com/v2/bgr/Nordicbet/Common/neutral/image/2015/10/11f176a1114c4f42b24448919fae1868.jpg" alt="Deutsch" />
+                        &nbsp;
+                        <span>Deutsch</span>
+                    </div>
+                </a>
+            </li>
+        
+            </ul>
+        
+</section>
+
+            </li>
+            <li class="support accountareaitem dropdownparent">
+                
+
+<a class="togglesupport toggledropdown" href="javascript:;" data-testid="accountAreaHelp">
+    <span>
+        Help
+        <span class="arrow icon-arrow-thin-down"></span>
+    </span>
+</a>
+<section class="accountareasupport dropdown" style="display: none;">
+    <div class="dropdownarrow"></div>
+    <ul>
+        <li class="support">
+            <a href="https://support.nordicbet.com/en" id="ctl00_AccountArea_ModuleRepeater_ctl01_ctl00_ctl27_SupportLink" data-testid="accountAreaSupport" target="_blank">
+                <i class="icon-questionmark-round"></i>
+                <span>Help Centre</span>
+            </a>
+        </li>
+        <li class="chat">
+            <a id="ctl00_AccountArea_ModuleRepeater_ctl01_ctl00_ctl27_ChatLink" data-testid="accountAreaChat" OnClick="window.open(&#39;/en/web/modules/rightnow/livechat.aspx&#39;, &#39;ChatWindow&#39;, &#39;height=530,width=650&#39;);void(0);">
+                <i class="icon-chat-double"></i>
+                <span>Chat</span>
+            </a>
+        </li>
+    </ul>
+</section>
+            </li>
+            <li class="balance accountareaitem dropdownparent">
+                <a class="togglebalance toggledropdown" href="javascript:;">
+                    <span class="saldoamount" data-testid="accountAreaBalanceDropdown">
+                        <span class="amounttitle">
+                            
+                        </span>
+                        <span class="amounttitle product" style="display: none">
+                            
+                        </span>
+                        <span class="amount">
+                            loading...
+                        </span>
+                        <span class="arrow icon-arrow-thin-down"></span></span>
+                    <span class="saldogame" style="display: none;">
+                        Balance shown in game window
+                    </span>
+
+                </a>
+                <section class="accountareabalance dropdown" style="display: none;">
+                    <div class="dropdownarrow"></div>
+                    <ul>
+                        <li class="noicon nohover">
+                            <p class="withdrawable">
+                                <span class="amountplaceholder">
+                                    <span class="amounttitle">
+                                        Withdrawable funds
+                                    </span>
+                                    <span class="withdrawable amountvalue" data-testid="accountAreaWithdrawable">
+                                        loading...
+                                    </span>
+                                </span>
+                            </p>
+                        </li>
+                        <li class="noicon nohover">
+                            <p class="bonus">
+                                <span class="amountplaceholder">
+                                    <span class="amounttitle">
+                                        Total bonus money
+                                    </span>
+                                    <span class="amounttitle product" style="display: none">
+                                        [ProductName] bonus money
+                                    </span>
+                                    <span class="bonus amountvalue" data-testid="accountAreaTotalBonusMoney">
+                                        loading...
+                                    </span>
+                                </span>
+                            </p>
+                        </li>
+                        <li class="noicon nohover amount">
+                            <p class="amount">
+                                <span class="amountplaceholder">
+                                    <span class="amounttitle bold">
+                                        Balance
+                                    </span>
+                                    <span class="amounttitle product bold" style="display: none">
+                                        [ProductName] balance:
+                                    </span>
+                                    <span class="amount amountvalue bold" data-testid="accountAreaTotalBalance">
+                                        loading...
+                                    </span>
+                                </span>
+                            </p>
+                        </li>
+                        <li class="noicon alternative funds">
+                            <a href="https://www.nordicbet.com/en/my-account" id="ctl00_AccountArea_ModuleRepeater_ctl01_ctl00_BalanceMyAccount" data-testid="accountAreaFullFundsSummary"><span class="totalvalue">
+                                Full funds summary
+                            </span>
+                            </a>
+                        </li>
+                    </ul>
+                </section>
+            </li>
+            <li class="myaccount accountareaitem dropdownparent">
+                <a class="togglemyaccount toggledropdown" href="javascript:;" data-testid="accountMyAccountDropdown">
+                    <span>
+                        <span class="username-text bold">
+                            Jonas O
+                        </span>
+                        <span class="arrow icon-arrow-thin-down"></span>
+                    </span>
+
+                </a>
+                <section class="accountareamyaccount dropdown" style="display: none;">
+                    <div class="dropdownarrow"></div>
+                    <ul>
+                        <li class="noicon">
+                            <a href="https://www.nordicbet.com/en/my-account/bonuses/available" id="ctl00_AccountArea_ModuleRepeater_ctl01_ctl00_MyAccountMyBonus" data-testid="accountAreaMyBonuses"><span>
+                                    My bonuses
+                                </span>
+                            </a>
+                        </li>
+                        <li class="noicon">
+                            <a href="https://www.nordicbet.com/en/my-account/my-poker" id="ctl00_AccountArea_ModuleRepeater_ctl01_ctl00_MyAccountMyPoker" data-testid="accountAreaMyPoker"><span>
+                                My poker
+                            </span>
+                            </a>
+                        </li>
+                        <li class="noicon">
+                            <a href="https://www.nordicbet.com/en/my-account/responsible-gaming/user-limit" id="ctl00_AccountArea_ModuleRepeater_ctl01_ctl00_MyAccountPlayBudget" data-testid="accountAreaPlayBudget"><span>
+                                    Play Budget
+                                </span>
+                            </a>
+                        </li>
+                        <li class="noicon">
+                            <a href="javascript:;" onclick=" javascript:Techsson.Core.Popup.OpenAvailableBonusesWindow('QuickDeposit'); " data-testid="accountAreaDeposit"><span>
+                                Deposit
+                            </span>
+                            </a>
+                        </li>
+                        <li class="noicon">
+                            <a id="MyAccountWithdraw" href="javascript:;" onclick=" Techsson.Core.StartPlaying.Popup.Show('Withdraw', Techsson.Core.Global.MarketId, window.location.href); " data-testid="accountAreaWithdraw"><span>
+                                Withdraw
+                            </span>
+                            </a>
+                        </li>
+                        <li class="noicon">
+                            <a id="MyAccountBetHistory" href="https://www.nordicbet.com/en/odds/bethistory/#?section=bethistory" data-testid="accountAreaBetHistory"><span>
+                                Bet History
+                            </span>
+                            </a>
+                        </li>
+                        <li class="alternative myaccount">
+                            <a href="https://www.nordicbet.com/en/my-account" id="ctl00_AccountArea_ModuleRepeater_ctl01_ctl00_MyAccountMyAccount" data-testid="accountAreaMyAccount">
+                                <span class="icon-profile"></span>
+                                <span>
+                                    My account
+                                </span>
+                            </a>
+                        </li>
+                        <li class="alternative logout">
+                            <a href="#" class="logout noroute" data-testid="accountAreaLogOut">
+                                <span class="icon-logout"></span>
+                                <span>
+                                    Log out
+                                </span>
+                                <div class="spinloading"></div>
+                            </a>
+                        </li>
+                    </ul>
+                </section>
+
+            </li>
+            
+            <li class="messages accountareaitem dropdownparent">
+                <a class="togglemymessages toggledropdown" href="javascript:;" data-testid="accountAreaNotification">
+                    <div class="notification-navbar-icon-container">
+                        <span class="icon-message-dots unread"></span>
+                    </div>
+                    <div class="notification-navbar">
+                        <span class="notification-unreadmessages-counter ">29</span>
+                    </div>
+                </a>
+                <section class="accountareamymessages dropdown" style="display: none;">
+                    <div class="dropdownarrow"></div>
+                    <ul>
+                        <li id="navbar-notification-center" class="noicon">
+                            <ul class="message-box">
+                                
+        <li class="message unread message-8670514" data-message-id="8670514" data-link-to-inbox="https://www.nordicbet.com/en/my-account/notifications">
+            <div class="message-item message-content">
+                <div id="headerBlock">
+                    <div id="statusText" style="display:block">
+                        <span class="message-item read-status">
+                            New
+                        </span>
+                    </div>
+                    <div class="expiredContainer">
+                    <div id="expiredInfoBlock" style="display:none">
+                        <div class="icon-exclamation-circle"></div>
+                        <div class="expired-text extraPadding">
+                            <span>
+                                Expired
+                            </span>
+                            <span class="expire-date">
+                                14 Sep
+                            </span>
+                        </div>
+                    </div>
+                        </div>
+                    <h4>Missa inte ditt gratisspel på 100 kr</h4>
+                </div>
+                <div class="">
+                    <div>
+                        <div class="message-image ">
+                            <img src="https://bps-cdn-level3.bpsgameserver.com/v2/bgr/Nordicbet/Common/neutral/image/2016/09/f0623e8061d14d5282c75db809245cdd.jpg" />
+                        </div>
+                        <span class="message-body">
+                            Vänskapsmatcherna inför World Cup of Hockey 2016 börjar i morgon! Spela för 100 kronor på vilken som helst av vänskapsmatcherna inför World Cup of Hockey 2016 med odds på minst 1,50 så får du ett gratisspel på mobilen värt 100 kronor på någon av matcherna.
+                            <br />
+                            <a href="https://www.nordicbet.com/sv/kampanjer/world-cup-of-hockey-friendlies" onclick="">Anmäl dig nu</a>
+                        </span>
+                    </div>
+                </div>
+                <span class="message-item message-time">
+                    
+                </span>
+            </div>
+            <hr />
+        </li>
+    
+        <li class="message unread message-8556769" data-message-id="8556769" data-link-to-inbox="https://www.nordicbet.com/en/my-account/notifications">
+            <div class="message-item message-content">
+                <div id="headerBlock">
+                    <div id="statusText" style="display:block">
+                        <span class="message-item read-status">
+                            New
+                        </span>
+                    </div>
+                    <div class="expiredContainer">
+                    <div id="expiredInfoBlock" style="display:none">
+                        <div class="icon-exclamation-circle"></div>
+                        <div class="expired-text extraPadding">
+                            <span>
+                                Expired
+                            </span>
+                            <span class="expire-date">
+                                10 Sep
+                            </span>
+                        </div>
+                    </div>
+                        </div>
+                    <h4>Predict the Manchester derby</h4>
+                </div>
+                <div class="">
+                    <div>
+                        <div class="message-image ">
+                            <img src="https://bps-cdn-level3.bpsgameserver.com/v2/bgr/Nordicbet/Common/neutral/image/2016/09/aeac4d8e91ac4d9f930ea5908de0d606.jpg" />
+                        </div>
+                        <span class="message-body">
+                            Are you looking forward to the battle of Manchester this weekend? Make your predictions for the game at NordicBet and win tickets to Liverpool-Man Utd in October!
+                            <br />
+                            <a href="https://promotions.nordicbet.com/manchester-derby/en/;WebView?url='https://promotions.nordicebt.com/manchester-derby/en/'" onclick="">Join now</a>
+                        </span>
+                    </div>
+                </div>
+                <span class="message-item message-time">
+                    
+                </span>
+            </div>
+            <hr />
+        </li>
+    
+        <li class="message unread message-8556768" data-message-id="8556768" data-link-to-inbox="https://www.nordicbet.com/en/my-account/notifications">
+            <div class="message-item message-content">
+                <div id="headerBlock">
+                    <div id="statusText" style="display:block">
+                        <span class="message-item read-status">
+                            New
+                        </span>
+                    </div>
+                    <div class="expiredContainer">
+                    <div id="expiredInfoBlock" style="display:none">
+                        <div class="icon-exclamation-circle"></div>
+                        <div class="expired-text extraPadding">
+                            <span>
+                                Expired
+                            </span>
+                            <span class="expire-date">
+                                10 Sep
+                            </span>
+                        </div>
+                    </div>
+                        </div>
+                    <h4>Predict the Manchester derby</h4>
+                </div>
+                <div class="">
+                    <div>
+                        <div class="message-image ">
+                            <img src="https://bps-cdn-level3.bpsgameserver.com/v2/bgr/Nordicbet/Common/neutral/image/2016/09/aeac4d8e91ac4d9f930ea5908de0d606.jpg" />
+                        </div>
+                        <span class="message-body">
+                            Are you looking forward to the battle of Manchester this weekend? Make your predictions for the game at NordicBet and win tickets to Liverpool-Man Utd in October!
+                            <br />
+                            <a href="https://www.nordicbet.com/en/promotions/manchester-derby?gtmbannerid=NB-160907-SB-Manchester_Derby_campaign" onclick="">Join now</a>
+                        </span>
+                    </div>
+                </div>
+                <span class="message-item message-time">
+                    
+                </span>
+            </div>
+            <hr />
+        </li>
+    
+        <li class="message expired message-8485326" data-message-id="8485326" data-link-to-inbox="https://www.nordicbet.com/en/my-account/notifications">
+            <div class="message-item message-content">
+                <div id="headerBlock">
+                    <div id="statusText" style="display:none">
+                        <span class="message-item read-status">
+                            New
+                        </span>
+                    </div>
+                    <div class="expiredContainer">
+                    <div id="expiredInfoBlock" style="">
+                        <div class="icon-exclamation-circle"></div>
+                        <div class="expired-text extraPadding">
+                            <span>
+                                Expired
+                            </span>
+                            <span class="expire-date">
+                                05 Sep
+                            </span>
+                        </div>
+                    </div>
+                        </div>
+                    <h4>Gratis livespel värt 100 kr på Sveriges match</h4>
+                </div>
+                <div class="messageContainer">
+                    <div>
+                        <div class="message-image messageContainer">
+                            <img src="https://bps-cdn-level3.bpsgameserver.com/v2/bgr/Nordicbet/Common/neutral/image/2016/08/06e2d0fc52c74b29ad6834cc2174c1fe.jpg" />
+                        </div>
+                        <span class="message-body">
+                            Det är dags för VM-kval, och vi har ett schysst erbjudande för alla som spelar på Sveriges match mot Holland! Anmäl dig och lägg ett spel för 100 kr på mobilen före matchstart, så ger vi dig ett gratis livespel på matchen.
+                            <br />
+                            <a href="https://www.nordicbet.com/sv/kampanjer/world-cup-free-bet" onclick="">Gå med nu</a>
+                        </span>
+                    </div>
+                </div>
+                <span class="message-item message-time">
+                    
+                </span>
+            </div>
+            <hr />
+        </li>
+    
+        <li class="message expired message-8442866" data-message-id="8442866" data-link-to-inbox="https://www.nordicbet.com/en/my-account/notifications">
+            <div class="message-item message-content">
+                <div id="headerBlock">
+                    <div id="statusText" style="display:none">
+                        <span class="message-item read-status">
+                            New
+                        </span>
+                    </div>
+                    <div class="expiredContainer">
+                    <div id="expiredInfoBlock" style="">
+                        <div class="icon-exclamation-circle"></div>
+                        <div class="expired-text extraPadding">
+                            <span>
+                                Expired
+                            </span>
+                            <span class="expire-date">
+                                06 Sep
+                            </span>
+                        </div>
+                    </div>
+                        </div>
+                    <h4>Claim your weekly free bet</h4>
+                </div>
+                <div class="messageContainer">
+                    <div>
+                        <div class="message-image messageContainer">
+                            <img src="https://bps-cdn-level3.bpsgameserver.com/v2/bgr/Nordicbet/Common/neutral/image/2016/08/3e62fe7dcc57440ea732e73ff4a084f1.jpg" />
+                        </div>
+                        <span class="message-body">
+                            Don’t forget to claim your weekly €10 free bet on the CHL. Place a qualifying bet of €10 and the free bet will instantly be credited to your account.
+                            <br />
+                            <a href="https://www.nordicbet.com/en/promotions/champions-hockey-league" onclick="">Read more</a>
+                        </span>
+                    </div>
+                </div>
+                <span class="message-item message-time">
+                    
+                </span>
+            </div>
+            <hr />
+        </li>
+    
+        <li class="message expired message-8079052" data-message-id="8079052" data-link-to-inbox="https://www.nordicbet.com/en/my-account/notifications">
+            <div class="message-item message-content">
+                <div id="headerBlock">
+                    <div id="statusText" style="display:none">
+                        <span class="message-item read-status">
+                            New
+                        </span>
+                    </div>
+                    <div class="expiredContainer">
+                    <div id="expiredInfoBlock" style="">
+                        <div class="icon-exclamation-circle"></div>
+                        <div class="expired-text extraPadding">
+                            <span>
+                                Expired
+                            </span>
+                            <span class="expire-date">
+                                20 Aug
+                            </span>
+                        </div>
+                    </div>
+                        </div>
+                    <h4>CHL is back!</h4>
+                </div>
+                <div class="messageContainer">
+                    <div>
+                        <div class="message-image messageContainer">
+                            <img src="https://bps-cdn-level3.bpsgameserver.com/v2/bgr/Nordicbet/Common/neutral/image/2016/08/3e62fe7dcc57440ea732e73ff4a084f1.jpg" />
+                        </div>
+                        <span class="message-body">
+                            The ice hockey season is here. Place a €10 bet on the Champions Hockey League and receive a €10 free bet.
+                            <br />
+                            <a href="https://www.nordicbet.com/en/promotions/champions-hockey-league" onclick="">Read more</a>
+                        </span>
+                    </div>
+                </div>
+                <span class="message-item message-time">
+                    
+                </span>
+            </div>
+            <hr />
+        </li>
+    
+        <li class="message expired message-7950286" data-message-id="7950286" data-link-to-inbox="https://www.nordicbet.com/en/my-account/notifications">
+            <div class="message-item message-content">
+                <div id="headerBlock">
+                    <div id="statusText" style="display:none">
+                        <span class="message-item read-status">
+                            New
+                        </span>
+                    </div>
+                    <div class="expiredContainer">
+                    <div id="expiredInfoBlock" style="">
+                        <div class="icon-exclamation-circle"></div>
+                        <div class="expired-text extraPadding">
+                            <span>
+                                Expired
+                            </span>
+                            <span class="expire-date">
+                                13 Aug
+                            </span>
+                        </div>
+                    </div>
+                        </div>
+                    <h4>Claim your great Premier League offer!</h4>
+                </div>
+                <div class="messageContainer">
+                    <div>
+                        <div class="message-image messageContainer">
+                            <img src="https://bps-cdn-level3.bpsgameserver.com/v2/bgr/Nordicbet/Common/neutral/image/2016/08/b3b9274dd10c4eb1b2a2ef3ad7722f02.jpg" />
+                        </div>
+                        <span class="message-body">
+                            The best Premier League season of all-time is finally here. You’ll now get a €25 bonus when you place a pre-match bet on it and by the way, we guarantee the best odds in the market during the first two rounds!
+                            <br />
+                            <a href="https://www.nordicbet.com/en/promotions/premier-league-2016" onclick="">Read more</a>
+                        </span>
+                    </div>
+                </div>
+                <span class="message-item message-time">
+                    
+                </span>
+            </div>
+            <hr />
+        </li>
+    
+        <li class="message expired message-7807924" data-message-id="7807924" data-link-to-inbox="https://www.nordicbet.com/en/my-account/notifications">
+            <div class="message-item message-content">
+                <div id="headerBlock">
+                    <div id="statusText" style="display:none">
+                        <span class="message-item read-status">
+                            New
+                        </span>
+                    </div>
+                    <div class="expiredContainer">
+                    <div id="expiredInfoBlock" style="">
+                        <div class="icon-exclamation-circle"></div>
+                        <div class="expired-text extraPadding">
+                            <span>
+                                Expired
+                            </span>
+                            <span class="expire-date">
+                                07 Aug
+                            </span>
+                        </div>
+                    </div>
+                        </div>
+                    <h4>English football season starts now</h4>
+                </div>
+                <div class="messageContainer">
+                    <div>
+                        <div class="message-image messageContainer">
+                            <img src="https://bps-cdn-level3.bpsgameserver.com/v2/bgr/Nordicbet/Common/neutral/image/2016/08/9842e7e983fe4cb3939365a2d1e1d649.jpg" />
+                        </div>
+                        <span class="message-body">
+                            Get a free LiveBet worth €10 to use on the Community Shield final on Sunday. Simply place a qualifying €10 pre-match bet on the same game.
+                            <br />
+                            <a href="https://www.nordicbet.com/en/promotions/community-shield" onclick="">Read more</a>
+                        </span>
+                    </div>
+                </div>
+                <span class="message-item message-time">
+                    
+                </span>
+            </div>
+            <hr />
+        </li>
+    
+        <li class="message expired message-7493077" data-message-id="7493077" data-link-to-inbox="https://www.nordicbet.com/en/my-account/notifications">
+            <div class="message-item message-content">
+                <div id="headerBlock">
+                    <div id="statusText" style="display:none">
+                        <span class="message-item read-status">
+                            New
+                        </span>
+                    </div>
+                    <div class="expiredContainer">
+                    <div id="expiredInfoBlock" style="">
+                        <div class="icon-exclamation-circle"></div>
+                        <div class="expired-text extraPadding">
+                            <span>
+                                Expired
+                            </span>
+                            <span class="expire-date">
+                                28 Jul
+                            </span>
+                        </div>
+                    </div>
+                        </div>
+                    <h4>Virtual Sports</h4>
+                </div>
+                <div class="messageContainer">
+                    <div>
+                        <div class="message-image messageContainer">
+                            <img src="https://bps-cdn-level3.bpsgameserver.com/v2/bgr/Nordicbet/Common/neutral/image/2016/07/45ad89bc89e04279903bc0b84ea157be.jpg" />
+                        </div>
+                        <span class="message-body">
+                            Your €5 bonus to use on Virtual Sports is credited to your account. Good luck!
+                            <br />
+                            <a href="https://www.nordicbet.com/en/odds/virtualsports" onclick="">Play now</a>
+                        </span>
+                    </div>
+                </div>
+                <span class="message-item message-time">
+                    
+                </span>
+            </div>
+            <hr />
+        </li>
+    
+        <li class="message expired message-7011378" data-message-id="7011378" data-link-to-inbox="https://www.nordicbet.com/en/my-account/notifications">
+            <div class="message-item message-content">
+                <div id="headerBlock">
+                    <div id="statusText" style="display:none">
+                        <span class="message-item read-status">
+                            
+                        </span>
+                    </div>
+                    <div class="expiredContainer">
+                    <div id="expiredInfoBlock" style="">
+                        <div class="icon-exclamation-circle"></div>
+                        <div class="expired-text extraPadding">
+                            <span>
+                                Expired
+                            </span>
+                            <span class="expire-date">
+                                31 Jul
+                            </span>
+                        </div>
+                    </div>
+                        </div>
+                    <h4>Spela på fotboll – få ett gratisspel värt 100 kr</h4>
+                </div>
+                <div class="messageContainer">
+                    <div>
+                        <div class="message-image messageContainer">
+                            <img src="https://bps-cdn-level3.bpsgameserver.com/v2/bgr/Nordicbet/Common/neutral/image/2016/07/cd10f7fb351c4418bba5335dae40b72e.jpg" />
+                        </div>
+                        <span class="message-body">
+                            Fotbollssommaren fortsätter. Få ett gratisspel på 100 kr att använda på vilken fotbollsmatch du vill på NordicBet. Lägg det på allsvenskan eller ditt lokala lag. Valet är ditt!
+                            <br />
+                            <a href="https://www.nordicbet.com/sv/kampanjer/summer-football-2016" onclick="">Läs mer</a>
+                        </span>
+                    </div>
+                </div>
+                <span class="message-item message-time">
+                    
+                </span>
+            </div>
+            <hr />
+        </li>
+    
+        <li class="message expired message-6537550" data-message-id="6537550" data-link-to-inbox="https://www.nordicbet.com/en/my-account/notifications">
+            <div class="message-item message-content">
+                <div id="headerBlock">
+                    <div id="statusText" style="display:none">
+                        <span class="message-item read-status">
+                            New
+                        </span>
+                    </div>
+                    <div class="expiredContainer">
+                    <div id="expiredInfoBlock" style="">
+                        <div class="icon-exclamation-circle"></div>
+                        <div class="expired-text extraPadding">
+                            <span>
+                                Expired
+                            </span>
+                            <span class="expire-date">
+                                30 Jun
+                            </span>
+                        </div>
+                    </div>
+                        </div>
+                    <h4>Wimbledon</h4>
+                </div>
+                <div class="messageContainer">
+                    <div>
+                        <div class="message-image messageContainer">
+                            <img src="https://bps-cdn-level3.bpsgameserver.com/v2/bgr/Nordicbet/Common/neutral/image/2016/06/ba6fe89b53a943b6a199e99722148f7a.jpg" />
+                        </div>
+                        <span class="message-body">
+                            It’s time for one of the most classic tournaments in sports. Make a pre-match bet on Wimbledon and you’ll get a bonus of €20!
+                            <br />
+                            <a href="https://www.nordicbet.com/en/promotions/wimbledon" onclick="">Read more here</a>
+                        </span>
+                    </div>
+                </div>
+                <span class="message-item message-time">
+                    
+                </span>
+            </div>
+            <hr />
+        </li>
+    
+        <li class="message expired message-5067012" data-message-id="5067012" data-link-to-inbox="https://www.nordicbet.com/en/my-account/notifications">
+            <div class="message-item message-content">
+                <div id="headerBlock">
+                    <div id="statusText" style="display:none">
+                        <span class="message-item read-status">
+                            New
+                        </span>
+                    </div>
+                    <div class="expiredContainer">
+                    <div id="expiredInfoBlock" style="">
+                        <div class="icon-exclamation-circle"></div>
+                        <div class="expired-text extraPadding">
+                            <span>
+                                Expired
+                            </span>
+                            <span class="expire-date">
+                                24 Apr
+                            </span>
+                        </div>
+                    </div>
+                        </div>
+                    <h4>En vecka till med bonusspel!</h4>
+                </div>
+                <div class="messageContainer">
+                    <div>
+                        <div class="message-image messageContainer">
+                            <img src="https://bps-cdn-level3.bpsgameserver.com/v2/bgr/Nordicbet/Common/neutral/image/2016/03/a55b036dbe564a3fbcd161780929b50c.jpg" />
+                        </div>
+                        <span class="message-body">
+                            Allsvenskan och Superettan har nu satt igång på riktigt, men du har fortfarande en vecka till där du kan få ett bonusspel värde 300 kr! Placera ett kvalificerat spel på 100 kr på Allsvenskan eller Superettan och få ditt bonusspel som du kan använda på valfritt spel i fotboll – från Premier League till Svenska division 5.
+                            <br />
+                            <a href="https://www.nordicbet.com/sv/kampanjer/allsvenskan" onclick="">Läs mer</a>
+                        </span>
+                    </div>
+                </div>
+                <span class="message-item message-time">
+                    
+                </span>
+            </div>
+            <hr />
+        </li>
+    
+        <li class="message expired message-4594945" data-message-id="4594945" data-link-to-inbox="https://www.nordicbet.com/en/my-account/notifications">
+            <div class="message-item message-content">
+                <div id="headerBlock">
+                    <div id="statusText" style="display:none">
+                        <span class="message-item read-status">
+                            New
+                        </span>
+                    </div>
+                    <div class="expiredContainer">
+                    <div id="expiredInfoBlock" style="">
+                        <div class="icon-exclamation-circle"></div>
+                        <div class="expired-text extraPadding">
+                            <span>
+                                Expired
+                            </span>
+                            <span class="expire-date">
+                                03 Apr
+                            </span>
+                        </div>
+                    </div>
+                        </div>
+                    <h4>GRATISSPEL FÖR 300 KR PÅ VALFRI FOTBOLL!</h4>
+                </div>
+                <div class="messageContainer">
+                    <div>
+                        <div class="message-image messageContainer">
+                            <img src="https://bps-cdn-level3.bpsgameserver.com/v2/bgr/Nordicbet/Common/neutral/image/2016/03/a55b036dbe564a3fbcd161780929b50c.jpg" />
+                        </div>
+                        <span class="message-body">
+                            Spela för 100 kr på Allsvenskan eller Superettan så får du ett gratisspel värt 300 kr på valfri fotbolls – från Premier League till svenska division 5.
+                            <br />
+                            <a href="http://go.nordicbet.com/allsvenskan" onclick="">Läs mer</a>
+                        </span>
+                    </div>
+                </div>
+                <span class="message-item message-time">
+                    
+                </span>
+            </div>
+            <hr />
+        </li>
+    
+        <li class="message expired message-4637780" data-message-id="4637780" data-link-to-inbox="https://www.nordicbet.com/en/my-account/notifications">
+            <div class="message-item message-content">
+                <div id="headerBlock">
+                    <div id="statusText" style="display:none">
+                        <span class="message-item read-status">
+                            New
+                        </span>
+                    </div>
+                    <div class="expiredContainer">
+                    <div id="expiredInfoBlock" style="">
+                        <div class="icon-exclamation-circle"></div>
+                        <div class="expired-text extraPadding">
+                            <span>
+                                Expired
+                            </span>
+                            <span class="expire-date">
+                                04 Apr
+                            </span>
+                        </div>
+                    </div>
+                        </div>
+                    <h4>Vinn en resa till Toulouse denna sportsommar</h4>
+                </div>
+                <div class="messageContainer">
+                    <div>
+                        <div class="message-image messageContainer">
+                            <img src="https://bps-cdn-level3.bpsgameserver.com/v2/bgr/Nordicbet/Common/neutral/image/2016/03/7bc8227fc07f40ad894ec59ecd59e7dd.jpg" />
+                        </div>
+                        <span class="message-body">
+                            Tippa första omgången av Allsvenskan och du kan vinna en resa till Frankrike för att heja på Sverige när landslaget spelar i årets största sporthändelse!
+                            <br />
+                            <a href="http://go.nordicbet.com/fotbollsguru" onclick="">Läs mer</a>
+                        </span>
+                    </div>
+                </div>
+                <span class="message-item message-time">
+                    
+                </span>
+            </div>
+            <hr />
+        </li>
+    
+        <li class="message expired message-4674105" data-message-id="4674105" data-link-to-inbox="https://www.nordicbet.com/en/my-account/notifications">
+            <div class="message-item message-content">
+                <div id="headerBlock">
+                    <div id="statusText" style="display:none">
+                        <span class="message-item read-status">
+                            
+                        </span>
+                    </div>
+                    <div class="expiredContainer">
+                    <div id="expiredInfoBlock" style="">
+                        <div class="icon-exclamation-circle"></div>
+                        <div class="expired-text extraPadding">
+                            <span>
+                                Expired
+                            </span>
+                            <span class="expire-date">
+                                05 Apr
+                            </span>
+                        </div>
+                    </div>
+                        </div>
+                    <h4>Congratulations!</h4>
+                </div>
+                <div class="messageContainer">
+                    <div>
+                        <div class="message-image messageContainer">
+                            <img src="https://bps-cdn-level3.bpsgameserver.com/v2/bgr/Nordicbet/Common/neutral/image/2016/01/ea7e172a220f4b798810d7a25e022578.jpg" />
+                        </div>
+                        <span class="message-body">
+                            You have 10 Free Spins on Guns N Roses. Remember if you make a deposit you will get a 300% casino bonus up to €30.
+                            <br />
+                            <a href="https://www.nordicbet.com/en/casino/slots/guns-n-roses" onclick="">Play Now</a>
+                        </span>
+                    </div>
+                </div>
+                <span class="message-item message-time">
+                    
+                </span>
+            </div>
+            <hr />
+        </li>
+    
+        <li class="message expired message-2749748" data-message-id="2749748" data-link-to-inbox="https://www.nordicbet.com/en/my-account/notifications">
+            <div class="message-item message-content">
+                <div id="headerBlock">
+                    <div id="statusText" style="display:none">
+                        <span class="message-item read-status">
+                            New
+                        </span>
+                    </div>
+                    <div class="expiredContainer">
+                    <div id="expiredInfoBlock" style="">
+                        <div class="icon-exclamation-circle"></div>
+                        <div class="expired-text extraPadding">
+                            <span>
+                                Expired
+                            </span>
+                            <span class="expire-date">
+                                25 Nov
+                            </span>
+                        </div>
+                    </div>
+                        </div>
+                    <h4>Welcome Back to NordicBet.</h4>
+                </div>
+                <div class="messageContainer">
+                    <div>
+                        <div class="message-image messageContainer">
+                            <img src="https://bps-cdn-level3.bpsgameserver.com/v2/bgr/Nordicbet/Common/neutral/image/2015/01/7a330375a0074d288f1fafb8af74aeb8.jpg" />
+                        </div>
+                        <span class="message-body">
+                            Welcome Back to NordicBet. You have 10 Free Spins on your account to be played on Gonzo’s Quest, Mega Fortune Dreams and Starburst. They can be played on your desktop, mobile or tablet. If you make a deposit of more than €10, you can get a 100% up to €50 casino bonus.
+                            <br />
+                            <a href="https://www.nordicbet.com/en/casino" onclick="">Play Now</a>
+                        </span>
+                    </div>
+                </div>
+                <span class="message-item message-time">
+                    
+                </span>
+            </div>
+            <hr />
+        </li>
+    
+        <li class="message expired message-2686765" data-message-id="2686765" data-link-to-inbox="https://www.nordicbet.com/en/my-account/notifications">
+            <div class="message-item message-content">
+                <div id="headerBlock">
+                    <div id="statusText" style="display:none">
+                        <span class="message-item read-status">
+                            New
+                        </span>
+                    </div>
+                    <div class="expiredContainer">
+                    <div id="expiredInfoBlock" style="">
+                        <div class="icon-exclamation-circle"></div>
+                        <div class="expired-text extraPadding">
+                            <span>
+                                Expired
+                            </span>
+                            <span class="expire-date">
+                                25 Nov
+                            </span>
+                        </div>
+                    </div>
+                        </div>
+                    <h4>Welcome Back to NordicBet.</h4>
+                </div>
+                <div class="messageContainer">
+                    <div>
+                        <div class="message-image messageContainer">
+                            <img src="https://bps-cdn-level3.bpsgameserver.com/v2/bgr/Nordicbet/Common/neutral/image/2015/01/7a330375a0074d288f1fafb8af74aeb8.jpg" />
+                        </div>
+                        <span class="message-body">
+                            Welcome Back to NordicBet. You have 10 Free Spins on your account to be played on Gonzo’s Quest, Mega Fortune Dreams and Starburst. They can be played on your desktop, mobile or tablet. If you make a deposit of more than €10, you can get a 100% up to €50 casino bonus.
+                            <br />
+                            <a href="https://www.nordicbet.com/en/casino" onclick="">Play Now</a>
+                        </span>
+                    </div>
+                </div>
+                <span class="message-item message-time">
+                    
+                </span>
+            </div>
+            <hr />
+        </li>
+    
+        <li class="message expired message-2373714" data-message-id="2373714" data-link-to-inbox="https://www.nordicbet.com/en/my-account/notifications">
+            <div class="message-item message-content">
+                <div id="headerBlock">
+                    <div id="statusText" style="display:none">
+                        <span class="message-item read-status">
+                            New
+                        </span>
+                    </div>
+                    <div class="expiredContainer">
+                    <div id="expiredInfoBlock" style="">
+                        <div class="icon-exclamation-circle"></div>
+                        <div class="expired-text extraPadding">
+                            <span>
+                                Expired
+                            </span>
+                            <span class="expire-date">
+                                13 Nov
+                            </span>
+                        </div>
+                    </div>
+                        </div>
+                    <h4>Sverige-Danmark</h4>
+                </div>
+                <div class="messageContainer">
+                    <div>
+                        <div class="message-image messageContainer">
+                            <img src="https://bps-cdn-level3.bpsgameserver.com/v2/bgr/Nordicbet/Common/neutral/image/2015/01/7a330375a0074d288f1fafb8af74aeb8.jpg" />
+                        </div>
+                        <span class="message-body">
+                            Vinn 2 biljetter till Sverige - Danmark. Spela för 100 kr på Norge - Ungern ikväll för att ha chansen att få se vårt kära landslag på plats.
+                            <br />
+                            <a href="https://promotions.nordicbet.com/sverige-danmark/sv/" onclick="">Läs mer här</a>
+                        </span>
+                    </div>
+                </div>
+                <span class="message-item message-time">
+                    
+                </span>
+            </div>
+            <hr />
+        </li>
+    
+        <li class="message expired message-2031976" data-message-id="2031976" data-link-to-inbox="https://www.nordicbet.com/en/my-account/notifications">
+            <div class="message-item message-content">
+                <div id="headerBlock">
+                    <div id="statusText" style="display:none">
+                        <span class="message-item read-status">
+                            New
+                        </span>
+                    </div>
+                    <div class="expiredContainer">
+                    <div id="expiredInfoBlock" style="">
+                        <div class="icon-exclamation-circle"></div>
+                        <div class="expired-text extraPadding">
+                            <span>
+                                Expired
+                            </span>
+                            <span class="expire-date">
+                                21 Oct
+                            </span>
+                        </div>
+                    </div>
+                        </div>
+                    <h4>CHAMPIONS 7 -You Can Win the 12,000 Euro Jackpot</h4>
+                </div>
+                <div class="messageContainer">
+                    <div>
+                        <div class="message-image messageContainer">
+                            <img src="https://bps-cdn-level3.bpsgameserver.com/v2/bgr/Nordicbet/Common/neutral/image/2015/07/e577463ff2de445e86828ca09ca9696a.jpg" />
+                        </div>
+                        <span class="message-body">
+                            Every Tuesday and Wednesday during the group stage we’ll provide a 7-match betting card. The rules are simple: correctly predict the outcome of 7 matches and you’ll have a chance to win the Jackpot. You even get rewarded if you get just 6 out of 7 right.
+                            <br />
+                            <a href="https://promotions.nordicbet.com/champions-7/en/" onclick="">Read more</a>
+                        </span>
+                    </div>
+                </div>
+                <span class="message-item message-time">
+                    
+                </span>
+            </div>
+            <hr />
+        </li>
+    
+        <li class="message expired message-1824451" data-message-id="1824451" data-link-to-inbox="https://www.nordicbet.com/en/my-account/notifications">
+            <div class="message-item message-content">
+                <div id="headerBlock">
+                    <div id="statusText" style="display:none">
+                        <span class="message-item read-status">
+                            New
+                        </span>
+                    </div>
+                    <div class="expiredContainer">
+                    <div id="expiredInfoBlock" style="">
+                        <div class="icon-exclamation-circle"></div>
+                        <div class="expired-text extraPadding">
+                            <span>
+                                Expired
+                            </span>
+                            <span class="expire-date">
+                                03 Oct
+                            </span>
+                        </div>
+                    </div>
+                        </div>
+                    <h4>Don't miss your chance to win tickets to El Clásico!</h4>
+                </div>
+                <div class="messageContainer">
+                    <div>
+                        <div class="message-image messageContainer">
+                            <img src="https://bps-cdn-level3.bpsgameserver.com/v2/bgr/Nordicbet/Common/neutral/image/2015/09/145dc7923a064d18b4c1c5bdec477141.jpg" />
+                        </div>
+                        <span class="message-body">
+                            Are you ready for the Super Football Weekend? Be an expert – make 1x2 predictions on five matches played this weekend and win tickets to El Clásico!
+                            <br />
+                            <a href="https://promotions.nordicbet.com/super-weekend/en/" onclick="">Read more</a>
+                        </span>
+                    </div>
+                </div>
+                <span class="message-item message-time">
+                    
+                </span>
+            </div>
+            <hr />
+        </li>
+    
+        <li class="message expired message-1704713" data-message-id="1704713" data-link-to-inbox="https://www.nordicbet.com/en/my-account/notifications">
+            <div class="message-item message-content">
+                <div id="headerBlock">
+                    <div id="statusText" style="display:none">
+                        <span class="message-item read-status">
+                            New
+                        </span>
+                    </div>
+                    <div class="expiredContainer">
+                    <div id="expiredInfoBlock" style="">
+                        <div class="icon-exclamation-circle"></div>
+                        <div class="expired-text extraPadding">
+                            <span>
+                                Expired
+                            </span>
+                            <span class="expire-date">
+                                29 Sep
+                            </span>
+                        </div>
+                    </div>
+                        </div>
+                    <h4>Är du en expert på Champions League?</h4>
+                </div>
+                <div class="messageContainer">
+                    <div>
+                        <div class="message-image messageContainer">
+                            <img src="https://bps-cdn-level3.bpsgameserver.com/v2/bgr/Nordicbet/Common/neutral/image/2015/07/e577463ff2de445e86828ca09ca9696a.jpg" />
+                        </div>
+                        <span class="message-body">
+                            Gruppspelet i Champions League är äntligen igång och det ger dig vå ny chanser till att vinna vår Champions 7 jackpott. Skicka bara in ditt tips innan 20:45 på matchdagen.
+                            <br />
+                            <a href="https://promotions.nordicbet.com/champions-7/sv/" onclick="">Läs mer</a>
+                        </span>
+                    </div>
+                </div>
+                <span class="message-item message-time">
+                    
+                </span>
+            </div>
+            <hr />
+        </li>
+    
+        <li class="message expired message-1306922" data-message-id="1306922" data-link-to-inbox="https://www.nordicbet.com/en/my-account/notifications">
+            <div class="message-item message-content">
+                <div id="headerBlock">
+                    <div id="statusText" style="display:none">
+                        <span class="message-item read-status">
+                            New
+                        </span>
+                    </div>
+                    <div class="expiredContainer">
+                    <div id="expiredInfoBlock" style="">
+                        <div class="icon-exclamation-circle"></div>
+                        <div class="expired-text extraPadding">
+                            <span>
+                                Expired
+                            </span>
+                            <span class="expire-date">
+                                15 Sep
+                            </span>
+                        </div>
+                    </div>
+                        </div>
+                    <h4>Är du en expert på Champions League?</h4>
+                </div>
+                <div class="messageContainer">
+                    <div>
+                        <div class="message-image messageContainer">
+                            <img src="https://bps-cdn-level3.bpsgameserver.com/v2/bgr/Nordicbet/Common/neutral/image/2015/07/e577463ff2de445e86828ca09ca9696a.jpg" />
+                        </div>
+                        <span class="message-body">
+                            Gruppspelet i Champions League är äntligen igång och det ger dig vå ny chanser till att vinna vår Champions 7 jackpott. Skicka bara in ditt tips innan 20:45 på matchdagen.
+                            <br />
+                            <a href="https://promotions.nordicbet.com/champions-7/sv/" onclick="">Läs mer</a>
+                        </span>
+                    </div>
+                </div>
+                <span class="message-item message-time">
+                    
+                </span>
+            </div>
+            <hr />
+        </li>
+    
+        <li class="message expired message-1255468" data-message-id="1255468" data-link-to-inbox="https://www.nordicbet.com/en/my-account/notifications">
+            <div class="message-item message-content">
+                <div id="headerBlock">
+                    <div id="statusText" style="display:none">
+                        <span class="message-item read-status">
+                            New
+                        </span>
+                    </div>
+                    <div class="expiredContainer">
+                    <div id="expiredInfoBlock" style="">
+                        <div class="icon-exclamation-circle"></div>
+                        <div class="expired-text extraPadding">
+                            <span>
+                                Expired
+                            </span>
+                            <span class="expire-date">
+                                12 Sep
+                            </span>
+                        </div>
+                    </div>
+                        </div>
+                    <h4>Win a 1,600 Euros trip for two to Liverpool v Manchester United</h4>
+                </div>
+                <div class="messageContainer">
+                    <div>
+                        <div class="message-image messageContainer">
+                            <img src="https://bps-cdn-level3.bpsgameserver.com/v2/bgr/Nordicbet/Common/neutral/image/2015/09/bd7eaa4fd6e144ae9ac1b733b455725f.jpg" />
+                        </div>
+                        <span class="message-body">
+                            It’s Manchester United v Liverpool this Saturday and the match could be your ticket to go and watch the reverse fixture at Anfield in January. For your chance to win the trip to Liverpool worth 1,600 Euros, just make 6 predictions about what will happen in the game, register your e-mail address and place a bet of at least 10 Euros on the match.
+                            <br />
+                            <a href="https://promotions.nordicbet.com/manutd-liverpool/en/" onclick="">Read more</a>
+                        </span>
+                    </div>
+                </div>
+                <span class="message-item message-time">
+                    
+                </span>
+            </div>
+            <hr />
+        </li>
+    
+        <li class="message expired message-951255" data-message-id="951255" data-link-to-inbox="https://www.nordicbet.com/en/my-account/notifications">
+            <div class="message-item message-content">
+                <div id="headerBlock">
+                    <div id="statusText" style="display:none">
+                        <span class="message-item read-status">
+                            New
+                        </span>
+                    </div>
+                    <div class="expiredContainer">
+                    <div id="expiredInfoBlock" style="">
+                        <div class="icon-exclamation-circle"></div>
+                        <div class="expired-text extraPadding">
+                            <span>
+                                Expired
+                            </span>
+                            <span class="expire-date">
+                                25 Aug
+                            </span>
+                        </div>
+                    </div>
+                        </div>
+                    <h4>Vinner du vår Champions 7 jackpott?</h4>
+                </div>
+                <div class="messageContainer">
+                    <div>
+                        <div class="message-image messageContainer">
+                            <img src="https://bps-cdn-level3.bpsgameserver.com/v2/bgr/Nordicbet/Common/neutral/image/2015/07/e577463ff2de445e86828ca09ca9696a.jpg" />
+                        </div>
+                        <span class="message-body">
+                            Vi fick tre vinnare förra veckan som fick dela på 60 000kr vilket betyder att jackpotten är nere på 20 000kr igen. Lägg ditt spel innan 20:45 för din chans att hämta din del denna veckan.
+                            <br />
+                            <a href="https://promotions.nordicbet.com/champions-7/sv/" onclick="">Läs mer</a>
+                        </span>
+                    </div>
+                </div>
+                <span class="message-item message-time">
+                    
+                </span>
+            </div>
+            <hr />
+        </li>
+    
+        <li class="message expired message-849814" data-message-id="849814" data-link-to-inbox="https://www.nordicbet.com/en/my-account/notifications">
+            <div class="message-item message-content">
+                <div id="headerBlock">
+                    <div id="statusText" style="display:none">
+                        <span class="message-item read-status">
+                            New
+                        </span>
+                    </div>
+                    <div class="expiredContainer">
+                    <div id="expiredInfoBlock" style="">
+                        <div class="icon-exclamation-circle"></div>
+                        <div class="expired-text extraPadding">
+                            <span>
+                                Expired
+                            </span>
+                            <span class="expire-date">
+                                20 Aug
+                            </span>
+                        </div>
+                    </div>
+                        </div>
+                    <h4>Join the club and get the first great offer</h4>
+                </div>
+                <div class="messageContainer">
+                    <div>
+                        <div class="message-image messageContainer">
+                            <img src="https://bps-cdn-level3.bpsgameserver.com/v2/bgr/Nordicbet/Common/neutral/image/2015/08/7b88da39e954443aa944522263a03aab.jpg" />
+                        </div>
+                        <span class="message-body">
+                            There’s an exclusive NordicBet Ice Hockey club being launched and you’ve just been invited to it. Membership gives you access to exclusive offers revolving around ice hockey matches from all over the world.  Membership is free. You’ll start getting the rewards as soon as you sign up because you’ll be able to earn a 10 Euro free bet to use at the weekend on the CHL.  To get it you’ll just have to wager at least 10 Euros on one or more of Thursday’s CHL matches.
+                            <br />
+                            <a href="https://promotions.nordicbet.com/ice-hockey-club/en/" onclick="">Read more</a>
+                        </span>
+                    </div>
+                </div>
+                <span class="message-item message-time">
+                    
+                </span>
+            </div>
+            <hr />
+        </li>
+    
+        <li class="message expired message-783549" data-message-id="783549" data-link-to-inbox="https://www.nordicbet.com/en/my-account/notifications">
+            <div class="message-item message-content">
+                <div id="headerBlock">
+                    <div id="statusText" style="display:none">
+                        <span class="message-item read-status">
+                            New
+                        </span>
+                    </div>
+                    <div class="expiredContainer">
+                    <div id="expiredInfoBlock" style="">
+                        <div class="icon-exclamation-circle"></div>
+                        <div class="expired-text extraPadding">
+                            <span>
+                                Expired
+                            </span>
+                            <span class="expire-date">
+                                18 Aug
+                            </span>
+                        </div>
+                    </div>
+                        </div>
+                    <h4>Champions 7 jackpoten är nu på 60 000kr</h4>
+                </div>
+                <div class="messageContainer">
+                    <div>
+                        <div class="message-image messageContainer">
+                            <img src="https://bps-cdn-level3.bpsgameserver.com/v2/bgr/Nordicbet/Common/neutral/image/2015/07/e577463ff2de445e86828ca09ca9696a.jpg" />
+                        </div>
+                        <span class="message-body">
+                            Champions League är tillbaka denna veckan och det betyder en ny chans för dig att ta hem Champions 7-jackpoten. Tippa korrekt på våra 7 utvalda matcher, så har du möjligheten till att vinna hela 60 000 kr. Glöm inte att fylla i ditt tips innan 20.45 ikväll.
+                            <br />
+                            <a href="https://promotions.nordicbet.com/champions-7/sv/" onclick="">Läs mer</a>
+                        </span>
+                    </div>
+                </div>
+                <span class="message-item message-time">
+                    
+                </span>
+            </div>
+            <hr />
+        </li>
+    
+        <li class="message expired message-749413" data-message-id="749413" data-link-to-inbox="https://www.nordicbet.com/en/my-account/notifications">
+            <div class="message-item message-content">
+                <div id="headerBlock">
+                    <div id="statusText" style="display:none">
+                        <span class="message-item read-status">
+                            New
+                        </span>
+                    </div>
+                    <div class="expiredContainer">
+                    <div id="expiredInfoBlock" style="">
+                        <div class="icon-exclamation-circle"></div>
+                        <div class="expired-text extraPadding">
+                            <span>
+                                Expired
+                            </span>
+                            <span class="expire-date">
+                                16 Aug
+                            </span>
+                        </div>
+                    </div>
+                        </div>
+                    <h4>Win 1000 euro cash with Gorilla Go Wild!</h4>
+                </div>
+                <div class="messageContainer">
+                    <div>
+                        <div class="message-image messageContainer">
+                            <img src="https://bps-cdn-level3.bpsgameserver.com/v2/bgr/Nordicbet/Common/neutral/image/2015/08/a75bd9855424412dbd878c57088980a0.jpg" />
+                        </div>
+                        <span class="message-body">
+                            Play at least 5 euro between now and Sunday and win a guaranteed prize, plus the chance to be the lucky winner of 1000 euro cash!
+                            <br />
+                            <a href="https://promotions.nordicbet.com/golden-ticket-premiere-night/en/" onclick="">Read more</a>
+                        </span>
+                    </div>
+                </div>
+                <span class="message-item message-time">
+                    
+                </span>
+            </div>
+            <hr />
+        </li>
+    
+        <li class="message expired message-729617" data-message-id="729617" data-link-to-inbox="https://www.nordicbet.com/en/my-account/notifications">
+            <div class="message-item message-content">
+                <div id="headerBlock">
+                    <div id="statusText" style="display:none">
+                        <span class="message-item read-status">
+                            New
+                        </span>
+                    </div>
+                    <div class="expiredContainer">
+                    <div id="expiredInfoBlock" style="">
+                        <div class="icon-exclamation-circle"></div>
+                        <div class="expired-text extraPadding">
+                            <span>
+                                Expired
+                            </span>
+                            <span class="expire-date">
+                                08 Aug
+                            </span>
+                        </div>
+                    </div>
+                        </div>
+                    <h4>The Premier League returns</h4>
+                </div>
+                <div class="messageContainer">
+                    <div>
+                        <div class="message-image messageContainer">
+                            <img src="https://bps-cdn-level3.bpsgameserver.com/v2/bgr/Nordicbet/Common/neutral/image/2015/08/aa2fc93915c14d74b866a76b340b3a68.jpg" />
+                        </div>
+                        <span class="message-body">
+                            Place a bet of 10 euro and get 30 euro in free bets! And that’s not all – we can guarantee you the highest odds on all matches.
+                            <br />
+                            <a href="https://promotions.nordicbet.com/premier-league/en/" onclick="">Read more</a>
+                        </span>
+                    </div>
+                </div>
+                <span class="message-item message-time">
+                    
+                </span>
+            </div>
+            <hr />
+        </li>
+    
+        <li class="message expired message-648540" data-message-id="648540" data-link-to-inbox="https://www.nordicbet.com/en/my-account/notifications">
+            <div class="message-item message-content">
+                <div id="headerBlock">
+                    <div id="statusText" style="display:none">
+                        <span class="message-item read-status">
+                            New
+                        </span>
+                    </div>
+                    <div class="expiredContainer">
+                    <div id="expiredInfoBlock" style="">
+                        <div class="icon-exclamation-circle"></div>
+                        <div class="expired-text extraPadding">
+                            <span>
+                                Expired
+                            </span>
+                            <span class="expire-date">
+                                02 Aug
+                            </span>
+                        </div>
+                    </div>
+                        </div>
+                    <h4>Why take risks on Chelsea v Arsenal when you can bet risk-free?</h4>
+                </div>
+                <div class="messageContainer">
+                    <div>
+                        <div class="message-image messageContainer">
+                            <img src="https://bps-cdn-level3.bpsgameserver.com/v2/bgr/Nordicbet/Common/neutral/image/2015/07/8a6b05800e564972b758629eed92bf2d.jpg" />
+                        </div>
+                        <span class="message-body">
+                            To get your 20 Euros risk-free bet just make a deposit between now and kick-off of the match, which is Sunday at 16:00 CET.
+                            <br />
+                            <a href="https://promotions.nordicbet.com/fa-community-shield/en/" onclick="">Read more</a>
+                        </span>
+                    </div>
+                </div>
+                <span class="message-item message-time">
+                    
+                </span>
+            </div>
+            <hr />
+        </li>
+    
+        <li class="message expired message-537107" data-message-id="537107" data-link-to-inbox="https://www.nordicbet.com/en/my-account/notifications">
+            <div class="message-item message-content">
+                <div id="headerBlock">
+                    <div id="statusText" style="display:none">
+                        <span class="message-item read-status">
+                            New
+                        </span>
+                    </div>
+                    <div class="expiredContainer">
+                    <div id="expiredInfoBlock" style="">
+                        <div class="icon-exclamation-circle"></div>
+                        <div class="expired-text extraPadding">
+                            <span>
+                                Expired
+                            </span>
+                            <span class="expire-date">
+                                28 Jul
+                            </span>
+                        </div>
+                    </div>
+                        </div>
+                    <h4>Make it a Champions League night to remember</h4>
+                </div>
+                <div class="messageContainer">
+                    <div>
+                        <div class="message-image messageContainer">
+                            <img src="https://bps-cdn-level3.bpsgameserver.com/v2/bgr/Nordicbet/Common/neutral/image/2015/07/e577463ff2de445e86828ca09ca9696a.jpg" />
+                        </div>
+                        <span class="message-body">
+                            They call it Champions League because it’s the best club competition in the world played by true Champions. But it’s also your passport to a big Jackpot win that will be yours if you correctly predict the outcome of 7 matches played on each Tuesday or Wednesday night of Champions League. So show us what you’ve got!
+                            <br />
+                            <a href="https://promotions.nordicbet.com/champions-7/en/" onclick="">Read more</a>
+                        </span>
+                    </div>
+                </div>
+                <span class="message-item message-time">
+                    
+                </span>
+            </div>
+            <hr />
+        </li>
+    
+        <li class="message expired message-512182" data-message-id="512182" data-link-to-inbox="https://www.nordicbet.com/en/my-account/notifications">
+            <div class="message-item message-content">
+                <div id="headerBlock">
+                    <div id="statusText" style="display:none">
+                        <span class="message-item read-status">
+                            New
+                        </span>
+                    </div>
+                    <div class="expiredContainer">
+                    <div id="expiredInfoBlock" style="">
+                        <div class="icon-exclamation-circle"></div>
+                        <div class="expired-text extraPadding">
+                            <span>
+                                Expired
+                            </span>
+                            <span class="expire-date">
+                                29 Jul
+                            </span>
+                        </div>
+                    </div>
+                        </div>
+                    <h4>Try out Sparks and get your guaranteed prize!</h4>
+                </div>
+                <div class="messageContainer">
+                    <div>
+                        <div class="message-image messageContainer">
+                            <img src="https://bps-cdn-level3.bpsgameserver.com/v2/bgr/Nordicbet/Common/neutral/image/2015/07/a5e487b186b444edb18004cc50ece7bc.jpg" />
+                        </div>
+                        <span class="message-body">
+                            Play brand new slot Sparks to unlock your Mystery Box. Your prize will be a casino bonus, 20 Free Spins or the Jackpot prize of 10,000 Euros. Wager at least 10 Euros between now and 23:59 CET on Sunday July 26 to get your prize.
+                            <br />
+                            <a href="https://www.nordicbet.com/en/casino/slots/sparks" onclick="">Play now</a>
+                        </span>
+                    </div>
+                </div>
+                <span class="message-item message-time">
+                    
+                </span>
+            </div>
+            <hr />
+        </li>
+    
+
+
+
+                            </ul>
+                        </li>
+
+                        <li id="ctl00_AccountArea_ModuleRepeater_ctl01_ctl00_notificationsviewall" class="alternative">
+                            <a href="https://www.nordicbet.com/en/my-account/notifications" id="ctl00_AccountArea_ModuleRepeater_ctl01_ctl00_ViewAllNotifications" data-testid="accountAreaViewAll">
+                                <span>
+                                    View All
+                                </span>
+                            </a>
+                        </li>
+                    </ul>
+                </section>
+            </li>
+            
+
+            <li class="deposit accountareaitem buttons">
+                <a class="headerbutton default" onclick=" javascript:Techsson.Core.Popup.OpenAvailableBonusesWindow('QuickDeposit');return false; " data-testid="accountAreaDeposit">
+                    <span>
+                        <span>
+                            Deposit
+                        </span>
+                        <span class="righticon icon-plus-circle"></span>
+                    </span>
+                </a>
+            </li>
+            
+        </ul>
+    </nav>
+</section>
+<script type="text/javascript">
+    $(function() {
+        $("body").trigger("HeaderLoaded", true);
+    });
+</script>
+
+    </ul>
+                        <ul class="modules"></ul>
+                        
+                        
+                        <img id="ctl00_chlLogoImage" class="chl-logo" src="https://bps-cdn-level3.bpsgameserver.com/v2/bgr/Nordicbet/Common/en/image/2015/10/common.logotype.chl.png" style="border-width:0px;" />
+                        
+                        <a href="../en" title="Nordicbet Sportsbook">
+                            <!--[if !IE]><!-->
+                        <img id="ctl00_MainSvgLogo" class="header-logo" src="https://bps-cdn-level3.bpsgameserver.com/v2/bgr/Nordicbet/Common/neutral/file/2015/09/common.logotype.white.notagline.svg" alt="Nordicbet Logo" style="border-width:0px;" />
+                            <!--<![endif]-->
+                            <!--[if IE 9]>
+                                <img id="ctl00_MainPngLogo" class="header-logo" src="https://bps-cdn-level3.bpsgameserver.com/v2/bgr/Nordicbet/Common/neutral/image/2014/10/logotypes.white.main_v3.png" alt="Nordicbet Logo" style="border-width:0px;" />
+                            <![endif]-->
+                        </a>
+                    </div>
+                    <ul class="modules">
+        <nav id="ctl00_NavBar_ModuleRepeater_ctl01_ctl00_TopMenuRef" class="main topmenu" data-tracking="module:topmenu">    
+                
+            <div class="wrapper sitewidth" id="main-navigation">
+                <ul>
+        
+            <li onclick=' openwindow("https://www.nordicbet.com/en/odds") ' class="active ">
+                <a onclick="" href="https://www.nordicbet.com/en/odds"
+                    data-testid='mainNavigationsportsbook' 
+                    ID="sportsbook-" class="sportsbook">SPORTSBOOK
+                    
+                </a>
+                
+            </li>
+        
+            <li onclick=' openwindow("https://www.nordicbet.com/en/livebet/#/combiview/") ' class="hoverable ">
+                <a onclick="" href="https://www.nordicbet.com/en/livebet/#/combiview/"
+                    data-testid='mainNavigationsportsbooklive' 
+                    ID="sportsbooklive-" class="sportsbooklive">LIVEBET
+                    
+                </a>
+                
+            </li>
+        
+            <li onclick=' openwindow("https://www.nordicbet.com/en/casino") ' class="hoverable ">
+                <a onclick="" href="https://www.nordicbet.com/en/casino"
+                    data-testid='mainNavigationcasino' 
+                    ID="casino-" class="casino">CASINO
+                    
+                </a>
+                
+            </li>
+        
+            <li onclick=' openwindow("https://www.nordicbet.com/en/livecasino") ' class="hoverable ">
+                <a onclick="" href="https://www.nordicbet.com/en/livecasino"
+                    data-testid='mainNavigationlivecasino' 
+                    ID="livecasino-" class="livecasino">LIVE CASINO
+                    
+                </a>
+                
+            </li>
+        
+            <li onclick=' openwindow("/en/odds/virtualsports") ' class="hoverable ">
+                <a onclick="" href="/en/odds/virtualsports"
+                    data-testid='mainNavigationvirtual' 
+                    ID="virtual-" class="virtual">Virtual sports
+                    
+                </a>
+                <span class='new'>New!</span>
+            </li>
+        
+            <li onclick=' openwindow("https://www.nordicbet.com/en/poker") ' class="hoverable ">
+                <a onclick="" href="https://www.nordicbet.com/en/poker"
+                    data-testid='mainNavigationpoker' 
+                    ID="poker-" class="poker">POKER
+                    
+                </a>
+                
+            </li>
+        
+            <li onclick=' openwindow("https://www.nordicbet.com/en/promotions") ' class="hoverable ">
+                <a onclick="" href="https://www.nordicbet.com/en/promotions"
+                    data-testid='mainNavigationpromotions' 
+                    ID="promotions-" class="promotions">PROMOTIONS
+                    
+                </a>
+                
+            </li>
+        
+            <script type="text/javascript">
+                var analogClockURL = "";
+            </script>
+            </ul>
+        </div>
+        
+    
+            <div class="submenu-wrapper">
+                 <div class="sitewidth">
+                    <ul class="submenu">
+        
+                <li class="active">
+                    <a data-testid='mainNavigationsportsbook' href="https://www.nordicbet.com/en/odds"  onclick="">SPORTSBOOK</a>
+                </li>
+        
+                <li>
+                    <a data-testid='mainNavigationlivestream' href="https://www.nordicbet.com/en/livebet/livestream"  onclick="">LIVESTREAM</a>
+                </li>
+        
+                <li>
+                    <a data-testid='mainNavigationlivescore' href="javascript:void(0);"  onclick="javascript:window.open ('http://www.score24.com/ls5/livescore.jsp?partner=nordicbet&amp;lang=eng', 'LIVESCORE','width=1050,height=800');return false;">LIVESCORE</a>
+                </li>
+        
+                <li>
+                    <a data-testid='mainNavigationbethistory' href="/en/odds/bethistory"  onclick="">Bet History</a>
+                </li>
+        
+                <li>
+                    <a data-testid='mainNavigationblog' href="http://blog.nordicbet.com/en" target="_blank" onclick="">BLOG</a>
+                </li>
+        
+                    </ul>
+                </div>
+            </div>
+        
+</nav>
+    </ul>
+                    <div style="clear: both"></div>
+
+                    
+    <ul class="modules">
+        
+
+<div class="information-main-box">
+    <div id="ctl00_headerContent_AlertBox_ModuleRepeater_ctl01_ctl00_informationmessagebox" class="information-message-box">
+        <div class="information-message-information-icon-box">
+                <i class="icon-info-circle"></i>
+            </div>
+        <div class="information-message-close-box">
+            <span id="ctl00_headerContent_AlertBox_ModuleRepeater_ctl01_ctl00_AlertMessageID" class="hidden" itemid="AlertMessageID"></span>
+            <i class="icon-x-round"></i>
+        </div>
+        <div class="information-message-inner-box">
+            <div class="information-message-content-box">
+                <span id="ctl00_headerContent_AlertBox_ModuleRepeater_ctl01_ctl00_announcementtitle" class="announcement-title"></span>
+                <span id="ctl00_headerContent_AlertBox_ModuleRepeater_ctl01_ctl00_announcementtext" class="announcement-text"></span>
+                <a id="ctl00_headerContent_AlertBox_ModuleRepeater_ctl01_ctl00_linkedtext" class="announcement-linked-text"></a>
+            </div>
+            <div class="clear"></div>
+        </div>
+    </div>
+</div>
+    </ul>
+
+                </div>
+            </header>
+            
+            
+    <section class="main">
+        <section class="lobby">
+            <section class="content">
+                <div class="container lobby-sportsbook">
+                    <ul class="modules">
+        
+
+<script type="text/javascript" async src="https://platform.twitter.com/widgets.js"></script>
+
+
+
+
+
+    </ul>
+                    
+
+        <script type="text/javascript">
+
+            $(document).ready(function() {
+                sbReloadURL_callback('https://sb.bpsgameserver.com/?token=563e294f-d71f-4b55-bc4d-627435d1095f&sid=901&lc=en&tz=Romance+Standard+Time&dc=EUR&c=en-GB&pagemenuheaderurl=https%3a%2f%2fwww.nordicbet.com%2fen%2fodds%2fPageMenuHeader.aspx&mainpromourl=https%3a%2f%2fwww.nordicbet.com%2fen%2fodds%2fMainPromo.aspx&articleurl=https%3a%2f%2fwww.nordicbet.com%2fen%2fodds&sidebarpromourl=https%3a%2f%2fwww.nordicbet.com%2fen%2fodds%2fSidebarPromo.aspx&proxyurl=https%3a%2f%2fwww.nordicbet.com%2fen%2fodds%2fScript%2fCross-frame%2fproxy.html&minigamesurl=https%3a%2f%2fwww.nordicbet.com%2fen%2fodds%2fMiniGameLauncher.aspx');
+            });
+
+            function sbReloadURL_callback(data) {
+                var hash = window.location.hash.replace(new RegExp('\#([a-zA-Z]+)\/', 'g'), '#/$1/');
+
+                $("iframe#SportsbookIFrame")[0].src = data + hash;
+            }
+        </script>
+
+        <iframe id="SportsbookIFrame" name="SportsbookIFrame" allowTransparency="true" scrolling="no" frameborder="0" style="border: 0px; height: 640px; overflow: hidden; width: 100%;" data-gameroot="https://sb.bpsgameserver.com/?token=563e294f-d71f-4b55-bc4d-627435d1095f&sid=901"></iframe>
+    
+
+
+                    <ul class="modules"></ul>
+                </div>
+            </section>
+        </section>
+    </section>
+    <script>
+        function getQueryStringParamValueByName(url, paramname) {
+            var querystring = window.location.href.slice(url.indexOf('?') + 1).split('&');
+            for (var i = 0; i < querystring.length; i++) {
+                var urlparamkvp = querystring[i].split('=');
+                if (urlparamkvp[0] == paramname) {
+                    return urlparamkvp[1];
+                }
+            }
+        }
+
+        var url = window.location.href;
+
+        if (url.indexOf('/bethistory') > 0) {
+            window.location.hash = "?section=bethistory";
+        }
+
+        $.subscribe("/authentication/session-timeout", function () {
+            Techsson.web.General.RedirectPage('?action=expired');
+        });
+
+        var action = getQueryStringParamValueByName(url, 'action');
+
+        //For some actions only reload page after the user closes the modal dialog
+        if (action === 'join') {
+            $.subscribe("/authentication/login-success", function () {
+                Techsson.Core.Global.ReloadAfterPopupClosed = true;
+            });
+        }
+        else {
+            $.subscribe("/authentication/login-success", function () {
+                Techsson.web.General.ReloadPage();
+            });
+        }
+
+        $.subscribe("/authentication/logout-success", function () {
+            window.location.href = "https://www.nordicbet.com/en/odds";
+        });
+    </script>
+
+            <section class="prefooter sitewidth top-content-text">
+                
+    
+                <ul class="modules"></ul>
+            </section>
+            <ul class="modules"></ul>
+            <ul class="modules"></ul>
+            <ul class="modules">
+        
+
+
+<div style="clear: both"></div>
+<div class="footer-background">
+    <footer class="main footer container_12" data-tracking="module:footer">
+        <div class="footerLinkContainer">
+            
+                    <div class="footerLinks grid_2">
+                        <span class="span-h3">
+                            <a>Sports</a>
+                        </span>
+                        <ul data-testid="footerlink.sportsbook">
+                            
+                                    <li><a href=https://www.nordicbet.com/en/odds>Sportsbook</a></li>
+                                
+                                    <li><a href=https://www.nordicbet.com/en/livebet>LiveBet</a></li>
+                                
+                                    <li><a href=https://www.nordicbet.com/en/livebet/livestream>Livestreaming</a></li>
+                                
+                                    <li><a href='javascript:void(0);' onclick=javascript:window.open('http://www.score24.com/ls5/livescore.jsp?partner=nordicbet&amp;lang=eng','Livescore','width=1050,height=800');>Livescore</a></li>
+                                
+                                    <li><a href=https://www.nordicbet.com/en/game-rules/sportsbook>Game rules</a></li>
+                                
+                        </ul>
+                    </div>
+                
+                    <div class="footerLinks grid_2">
+                        <span class="span-h3">
+                            <a>Casino</a>
+                        </span>
+                        <ul data-testid="footerlink.casino">
+                            
+                                    <li><a href=https://www.nordicbet.com/en/casino>Casino</a></li>
+                                
+                                    <li><a href=https://www.nordicbet.com/en/casino/slots>Slots</a></li>
+                                
+                                    <li><a href=https://www.nordicbet.com/en/casino/table-games>Table Games</a></li>
+                                
+                                    <li><a href=https://www.nordicbet.com/en/casino/video-poker>Video Poker</a></li>
+                                
+                                    <li><a href=https://www.nordicbet.com/en/casino/jackpot-games>Jackpots</a></li>
+                                
+                                    <li><a href=https://www.nordicbet.com/en/casino/casino-games>All Games</a></li>
+                                
+                                    <li><a href=https://www.nordicbet.com/en/customer-service/game-rules/casino>Game rules</a></li>
+                                
+                        </ul>
+                    </div>
+                
+                    <div class="footerLinks grid_2">
+                        <span class="span-h3">
+                            <a>Live Casino</a>
+                        </span>
+                        <ul data-testid="footerlink.livecasino">
+                            
+                                    <li><a href=https://www.nordicbet.com/en/livecasino>Live Casino</a></li>
+                                
+                                    <li><a href=https://www.nordicbet.com/en/livecasino/roulette>Roulette</a></li>
+                                
+                                    <li><a href=https://www.nordicbet.com/en/livecasino/baccarat>Baccarat</a></li>
+                                
+                                    <li><a href=https://www.nordicbet.com/en/livecasino/blackjack>Black Jack</a></li>
+                                
+                                    <li><a href=https://www.nordicbet.com/en/customer-service/game-rules/livecasino>Game rules</a></li>
+                                
+                        </ul>
+                    </div>
+                
+                    <div class="footerLinks grid_2">
+                        <span class="span-h3">
+                            <a>Poker</a>
+                        </span>
+                        <ul data-testid="footerlink.poker">
+                            
+                                    <li><a href=https://www.nordicbet.com/en/poker>Poker</a></li>
+                                
+                                    <li><a href=https://www.nordicbet.com/en/poker/play-now>Play online</a></li>
+                                
+                                    <li><a href=https://www.nordicbet.com/en/poker/play-now>Download Client</a></li>
+                                
+                                    <li><a href=https://www.nordicbet.com/en/poker/tournaments>Tournaments</a></li>
+                                
+                                    <li><a href=https://www.nordicbet.com/en/customer-service/game-rules/poker>Game rules</a></li>
+                                
+                        </ul>
+                    </div>
+                
+                    <div class="footerLinks grid_2">
+                        <span class="span-h3">
+                            <a>Hot Odds</a>
+                        </span>
+                        <ul data-testid="footerlink.hotodds">
+                            
+                                    <li><a href=https://www.nordicbet.com/en/odds/football>Football betting</a></li>
+                                
+                                    <li><a href=https://www.nordicbet.com/en/odds/ice-hockey>Ice hockey betting</a></li>
+                                
+                                    <li><a href=https://www.nordicbet.com/en/odds/tennis>Tennis betting</a></li>
+                                
+                                    <li><a href=https://www.nordicbet.com/en/odds/basketball>Basketball betting</a></li>
+                                
+                                    <li><a href=https://www.nordicbet.com/en/odds/baseball>Baseball betting</a></li>
+                                
+                        </ul>
+                    </div>
+                
+                    <div class="footerLinks grid_2">
+                        <span class="span-h3">
+                            <a>Information</a>
+                        </span>
+                        <ul data-testid="footerlink.information">
+                            
+                                    <li><a href=https://www.nordicbet.com/en/terms>Terms &amp; Conditions</a></li>
+                                
+                                    <li><a href='javascript:void(0);' onclick=javascript:window.open('https://support.nordicbet.com/en.html?category=responsible-gaming');>Responsible Gaming</a></li>
+                                
+                                    <li><a href=https://www.nordicbet.com/en/promotions>Promotions</a></li>
+                                
+                                    <li><a href='javascript:void(0);' onclick=javascript:window.open('https://support.nordicbet.com/en');>Help Centre</a></li>
+                                
+                                    <li><a href=https://www.nordicbet.com/en/promotions/new-mobile-app-download-page>The NordicBet App</a></li>
+                                
+                        </ul>
+                    </div>
+                
+                    <div class="footerLinks grid_2">
+                        <span class="span-h3">
+                            <a>Corporate</a>
+                        </span>
+                        <ul data-testid="footerlink.corporate">
+                            
+                                    <li><a href=https://www.nordicbet.com/en/about-us>About</a></li>
+                                
+                                    <li><a href='javascript:void(0);' onclick=javascript:window.open('http://www.affiliatelounge.com/',true);return false;>Affiliates</a></li>
+                                
+                                    <li><a href='javascript:void(0);' onclick=javascript:window.open('http://www.betssondreamteam.com/',true);return false;>Careers</a></li>
+                                
+                        </ul>
+                    </div>
+                
+        </div>
+        <div class="footerImageContainer">
+            <div class="upperFooterImages">
+                
+                        <a href='http://www.gx4.com/' target='_blank' rel='nofollow'><span class='icon-g4'></span></a>
+                    
+                        <a href='http://www.gamblersanonymous.org/ga/' target='_blank' rel='nofollow'><span class='icon-gamblers-anonymous'></span></a>
+                    
+                        <a href='http://www.gamcare.org.uk/' target='_blank' rel='nofollow'><span class='icon-gamcareLogo'></span></a>
+                    
+                        <a href='https://support.nordicbet.com/en.html?category=responsible-gaming' target='_blank' rel=''><span class='icon-eighteen-plus'></span></a>
+                    
+            </div>
+
+            <div class="secondFooterImages">
+                
+                        <a href='https://www.nordicbet.com/en/customer-service/deposit-options' target='' rel=''><span class='icon-euteller'></span></a>
+                    
+                        <a href='https://www.nordicbet.com/en/customer-service/deposit-options' target='' rel=''><span class='icon-bank-transfer'></span></a>
+                    
+                        <a href='https://www.nordicbet.com/en/payment-options' target='' rel=''><span class='icon-visa'></span></a>
+                    
+                        <a href='https://www.nordicbet.com/en/customer-service/deposit-options' target='' rel=''><span class='icon-mastercard-solid'></span></a>
+                    
+                        <a href='https://www.nordicbet.com/en/payment-options' target='' rel=''><span class='icon-neteller'></span></a>
+                    
+                        <a href='https://www.nordicbet.com/en/customer-service/deposit-options' target='' rel=''><span class='icon-skrill'></span></a>
+                    
+                        <a href='https://www.nordicbet.com/en/payment-options' target='' rel=''><span class='icon-trustly'></span></a>
+                    
+            </div>
+        </div>
+        <div class="grid_12 responsible-gaming-message">Gambling can be addictive. Please play responsibly.</div>
+        <div class="grid_12 license-section">
+            <a class="license-image" href="https://www.authorisation.mga.org.mt/verification.aspx?lang=en&amp;company=0ec7b461-65ad-4d99-b4de-f740a9e188c7&amp;details=1" target="_blank">
+                <img class="licence-logo" src="https://bps-cdn-level3.bpsgameserver.com/v2/bgr/Nordicbet/Common/en/image/2016/01/de98974d09f2422781f2a6887f1ee170.png" alt="MGA Licensed" />
+            </a>
+
+            
+            <div class="sb license-info-container">The operator of this website is BML Group Ltd., Maltese company registration number C-34836, having its registered address at ‘Betsson Experience Centre’, Ta’ Xbiex Seafront, Ta’ Xbiex, XBX 1027, Malta. This website is operated by BML Group Ltd., under the following licences, issued and regulated by the Malta Gaming Authority: Licence Numbers MGA/CL1/183/2004 (issued 30-Mar-11), MGA/CL1/902/2013 (issued 09-Jun-14), MGA/CL1/770/2011 (issued 18-Nov-11), MGA/CL1/1034/2014 (issued 25-May-15), MGA/CL1/1082/2015 (issued 14-Apr-15), MGA/CL1/836/2012 (issued 08-Apr-13), MGA/CL3/803/2012 (issued 11-Jul-12). Games from Scientific Games are licensed by Alderney Gambling Control Commission (AGCC), under Jadestone Networks (Malta) - License number 136 C2A. Games from Evolution are licensed by Alderney Gambling Control Commission (AGCC), under Evolution Gaming Malta Limited - License number 123C2A.</div>
+            
+        </div>
+        <div class="grid_12 logoContainer">
+            <a href="/">
+                <!--[if !IE]><!-->
+                <img id="ctl00_Footer_ModuleRepeater_ctl01_ctl00_MainSvgLogo" class="footer-logo" src="https://bps-cdn-level3.bpsgameserver.com/v2/bgr/Nordicbet/Common/neutral/file/2015/09/common.logotype.white.notagline.svg" alt="[common.logo.alt.text]" style="border-width:0px;" />
+                <!--<![endif]-->
+                <!--[if IE 9]>
+                <img id="ctl00_Footer_ModuleRepeater_ctl01_ctl00_MainPngLogo" class="footer-logo" src="https://bps-cdn-level3.bpsgameserver.com/v2/bgr/Nordicbet/Common/neutral/image/2014/10/logotypes.white.main_v3.png" alt="[common.logo.alt.text]" style="border-width:0px;" />
+            <![endif]-->
+            </a>
+        </div>
+
+        <div class="grid_12 readmore Sportsbook">
+            <div class="footer-upper-content">
+                <h2>Best Betting odds</h2>NordicBet’s Sportsbook is the home of <strong>online betting</strong> on Sports. We offer <strong>betting odds</strong> on almost every sport you can think of including football, ice hockey, tennis, baseball, basketball, Winter Sports and golf.<p>In our Sportsbook you can <strong>bet online</strong> not just on the most popular markets like 1x2, handicaps and total points, but also on side markets and Player Specials, particularly on leagues from US Sports like NHL, NFL, NBA and MLB.</p><p>Not only do we offer the <strong>best odds</strong> on all the top leagues from the top sports, we also offer odds on the lower leagues in football and ice hockey, sometimes all the way down to the fourth and fifth Divisions. Extra benefits of our Sportsbook include a world class <a href="https://www.nordicbet.com/en/livebet#/combiview/">LiveBet</a> product, a Livescore service so you can check on all the latest scores and <a href="https://www.nordicbet.com/en/livebet/livestream">Livestreaming</a> on top leagues, all absolutely free.<br /><br />This site is operated by NordicBet and the bets and odds offered in connection with World Cup of Hockey 2016 are in no way offered, administered or sponsored by the World Cup of Hockey and/or any of their operating entities or players. Void in North America and where prohibited.<a href="https://www.nordicbet.com/en/terms"> Terms and conditions.</a></p>
+            </div>
+            <div class="footer-bottom-content">
+                
+            </div>
+        </div>
+    </footer>
+</div>
+<a href="#" class="scrollTopButton icon-arrow-thin-up"></a>
+    </ul>
+        </section>
+   
+        <ul class="modules">
+        
+<section id="MsgAreaBottom">
+    <div id="msgwrapper" class="msgwrapper">
+        <div class="msgalign">
+            <a href="javascript:;" id="CookieClick"> <i class="icon-x-round"></i></a>
+            <span>We use cookies to ensure you get the best gaming experience from NordicBet. By using nordicbet.com you accept the use of cookies as outlined in our <a href="https://www.nordicbet.com/en/customer-service/cookie-policy">Cookie Policy</a>. If you don't want to see this message again, you can click the "X"-button on the right.</span>
+        </div>
+    </div>
+</section>
+    </ul>
+        <script type="text/javascript">
+            Namespace("Techsson.Core.Global");
+            Techsson.Core.Global.CurrentAppRoot = '/';
+            Techsson.Core.Global.GameWebRoot = '/en';
+            Techsson.Core.Global.SharedMarketRoot = '/en/odds/web/';
+            Techsson.Core.Global.Language = 'en';
+            Techsson.Core.Global.MarketId = '1302';
+            Techsson.Core.Global.Site = 'en';
+            Techsson.Core.Global.Culture = 'en-GB';
+            Techsson.Core.Global.IsLoggedIn = true;
+            Techsson.Core.Global.ProductShortName = 'Sportsbook';
+            Techsson.Core.Global.ProductPageType = 'Generic';
+            Techsson.Core.Global.PartnerIconStyle = 'dark';
+            Techsson.Core.Global.LocaleDateFormat = 'dd/mm/y';
+            Techsson.Core.Global.TransferLink = 'https://www.nordicbet.com/en/my-accounttransfer/';
+            Techsson.Core.Global.BonusContext = 'NordicBet.Sportsbook'; 
+            Techsson.Core.Global.UseMediaMind = 'True';
+            Techsson.Core.Global.StartPageAbsoluteUrl = 'default.aspx';
+            Techsson.Core.Global.CasinoPageAbsoluteUrl = 'casino';
+            Techsson.Core.Global.TakenBonusesPage = 'https://www.nordicbet.com/en/my-account/bonuses/taken';
+            Techsson.Core.Global.CustomerGuid = '4bbeb85d-6936-40cc-a11e-6dc2c8c4a0a6';
+            Techsson.Core.Global.UserName = 'sportsbet@outlook.com';
+            Techsson.Core.Global.CustomerFullName = "Jonas Olsson";
+            Techsson.Core.Global.CustomerDepositType = "RDC";
+            Techsson.Core.Global.CustomerAccountCurrency = "EUR";
+
+            if (0 === 0) {
+                Techsson.Core.Global.CustomerDepositLimit = undefined;
+            } else {
+                Techsson.Core.Global.CustomerDepositLimit = "0";
+            }
+
+            
+            Techsson.Core.Global.UseALTracking = 'true';
+            
+            Techsson.Core.Global.ALTrackingUrl = 'https://tools.affiliatelounge.com/pixel/render?b=1&p=&tm=SE&a=NDC';
+            Techsson.Core.RealityCheckService.StartSessionTimeLimitTimer();
+            
+
+            $(document).ready(function() {
+                if ($("#promotionspage").length > 0) {
+                    $(".top-content-info").remove();
+                } else {
+                    $(".top-content-promotion").remove();
+                }
+            });
+        </script>
+        
+        <script type="text/javascript">
+            // If there is any GTM tags which needs to be fired, let's fire them
+            Techsson.Core.GoogleTagManager.FireAnyStoredGtmTags();
+        </script>
+
+        <script type="text/javascript">
+            $(document).ready(function() {
+                
+            });
+        </script>
+
+        <script type="text/javascript"> Cufon.now(); </script>
+        
+        <!-- StartPlayingJavaScript -->
+        <script type="text/javascript" src="/core/StartPlaying/Api/v2/StartPlayingApi.js"></script>
+        <script type="text/javascript" src="/core/StartPlaying/Api/v2/StartPlayingInit.ashx?marketid=1302"></script>
+        
+        
+        <!--[if lte IE 8]>
+            <script>
+                if (Techsson.Core.Cookie.Get("BrowserWarningShown") != "true") {
+                    Techsson.Core.Popup.OpenBrowserWarningDialog();
+                }
+            </script>
+        <![endif]-->
+
+        
+       
+    </body>
+</html>
+<!-- S:120|P:http -->

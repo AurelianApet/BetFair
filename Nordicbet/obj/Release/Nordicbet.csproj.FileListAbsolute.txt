@@ -1,0 +1,97 @@
+E:\Freelancer\SoccerDrawBot\Nordicbet\Nordicbet\bin\Release\Nordicbet.exe.config
+E:\Freelancer\SoccerDrawBot\Nordicbet\Nordicbet\bin\Release\Nordicbet.exe
+E:\Freelancer\SoccerDrawBot\Nordicbet\Nordicbet\bin\Release\Nordicbet.pdb
+E:\Freelancer\SoccerDrawBot\Nordicbet\Nordicbet\bin\Release\Newtonsoft.Json.dll
+E:\Freelancer\SoccerDrawBot\Nordicbet\Nordicbet\bin\Release\HtmlAgilityPack.pdb
+E:\Freelancer\SoccerDrawBot\Nordicbet\Nordicbet\bin\Release\HtmlAgilityPack.xml
+E:\Freelancer\SoccerDrawBot\Nordicbet\Nordicbet\obj\Release\Nordicbet.csprojResolveAssemblyReference.cache
+E:\Freelancer\SoccerDrawBot\Nordicbet\Nordicbet\obj\Release\Nordicbet.frmAlert.resources
+E:\Freelancer\SoccerDrawBot\Nordicbet\Nordicbet\obj\Release\Nordicbet.frmMain.resources
+E:\Freelancer\SoccerDrawBot\Nordicbet\Nordicbet\obj\Release\Nordicbet.frmSetting.resources
+E:\Freelancer\SoccerDrawBot\Nordicbet\Nordicbet\obj\Release\Nordicbet.frmStake.resources
+E:\Freelancer\SoccerDrawBot\Nordicbet\Nordicbet\obj\Release\Nordicbet.Properties.Resources.resources
+E:\Freelancer\SoccerDrawBot\Nordicbet\Nordicbet\obj\Release\Nordicbet.csproj.GenerateResource.Cache
+E:\Freelancer\SoccerDrawBot\Nordicbet\Nordicbet\obj\Release\Nordicbet.exe
+E:\Freelancer\SoccerDrawBot\Nordicbet\Nordicbet\obj\Release\Nordicbet.pdb
+E:\Freelancer\SoccerDrawBot\Nordicbet_Update\Nordicbet\bin\Release\Nordicbet.exe.config
+E:\Freelancer\SoccerDrawBot\Nordicbet_Update\Nordicbet\obj\Release\Nordicbet.exe
+E:\Freelancer\SoccerDrawBot\Nordicbet_Update\Nordicbet\obj\Release\Nordicbet.pdb
+E:\Freelancer\SoccerDrawBot\Nordicbet_Update\Nordicbet\bin\Release\Nordicbet.exe
+E:\Freelancer\SoccerDrawBot\Nordicbet_Update\Nordicbet\bin\Release\Nordicbet.pdb
+E:\Freelancer\SoccerDrawBot\Nordicbet_Update\Nordicbet\bin\Release\Newtonsoft.Json.dll
+E:\Freelancer\SoccerDrawBot\Nordicbet_Update\Nordicbet\bin\Release\HtmlAgilityPack.pdb
+E:\Freelancer\SoccerDrawBot\Nordicbet_Update\Nordicbet\bin\Release\HtmlAgilityPack.xml
+E:\Freelancer\SoccerDrawBot\Nordicbet_Update\Nordicbet\obj\Release\Nordicbet.csprojResolveAssemblyReference.cache
+E:\Freelancer\SoccerDrawBot\Nordicbet_Update\Nordicbet\obj\Release\Nordicbet.frmAlert.resources
+E:\Freelancer\SoccerDrawBot\Nordicbet_Update\Nordicbet\obj\Release\Nordicbet.frmMain.resources
+E:\Freelancer\SoccerDrawBot\Nordicbet_Update\Nordicbet\obj\Release\Nordicbet.frmSetting.resources
+E:\Freelancer\SoccerDrawBot\Nordicbet_Update\Nordicbet\obj\Release\Nordicbet.frmStake.resources
+E:\Freelancer\SoccerDrawBot\Nordicbet_Update\Nordicbet\obj\Release\Nordicbet.Properties.Resources.resources
+E:\Freelancer\SoccerDrawBot\Nordicbet_Update\Nordicbet\obj\Release\Nordicbet.csproj.GenerateResource.Cache
+G:\work\VSwork\C# working\site scraping\Nordicbet_Update\Nordicbet\bin\Release\Nordicbet.exe.config
+G:\work\VSwork\C# working\site scraping\Nordicbet_Update\Nordicbet\obj\Release\Nordicbet.exe
+G:\work\VSwork\C# working\site scraping\Nordicbet_Update\Nordicbet\obj\Release\Nordicbet.pdb
+G:\work\VSwork\C# working\site scraping\Nordicbet_Update\Nordicbet\bin\Release\Nordicbet.exe
+G:\work\VSwork\C# working\site scraping\Nordicbet_Update\Nordicbet\bin\Release\Nordicbet.pdb
+G:\work\VSwork\C# working\site scraping\Nordicbet_Update\Nordicbet\bin\Release\Newtonsoft.Json.dll
+G:\work\VSwork\C# working\site scraping\Nordicbet_Update\Nordicbet\obj\Release\Nordicbet.frmAlert.resources
+G:\work\VSwork\C# working\site scraping\Nordicbet_Update\Nordicbet\obj\Release\Nordicbet.frmMain.resources
+G:\work\VSwork\C# working\site scraping\Nordicbet_Update\Nordicbet\obj\Release\Nordicbet.frmSetting.resources
+G:\work\VSwork\C# working\site scraping\Nordicbet_Update\Nordicbet\obj\Release\Nordicbet.frmStake.resources
+G:\work\VSwork\C# working\site scraping\Nordicbet_Update\Nordicbet\obj\Release\Nordicbet.Properties.Resources.resources
+G:\work\VSwork\C# working\site scraping\Nordicbet_Update\Nordicbet\obj\Release\Nordicbet.csproj.GenerateResource.Cache
+G:\work\VSwork\C# working\site scraping\BetFair\BetFair\Nordicbet\bin\Release\Newtonsoft.Json.dll
+G:\work\VSwork\C# working\site scraping\BetFair\BetFair\Nordicbet\obj\Release\Nordicbet.frmAlert.resources
+G:\work\VSwork\C# working\site scraping\BetFair\BetFair\Nordicbet\obj\Release\Nordicbet.frmMain.resources
+G:\work\VSwork\C# working\site scraping\BetFair\BetFair\Nordicbet\obj\Release\Nordicbet.frmSetting.resources
+G:\work\VSwork\C# working\site scraping\BetFair\BetFair\Nordicbet\obj\Release\Nordicbet.frmStake.resources
+G:\work\VSwork\C# working\site scraping\BetFair\BetFair\Nordicbet\obj\Release\Nordicbet.Properties.Resources.resources
+G:\work\VSwork\C# working\site scraping\BetFair\BetFair\Nordicbet\obj\Release\Nordicbet.csproj.GenerateResource.Cache
+G:\work\VSwork\C# working\site scraping\BetFair\BetFair\Nordicbet\bin\Release\Api-ng-sample-code.dll
+G:\work\VSwork\C# working\site scraping\BetFair\BetFair\Nordicbet\bin\Release\BetfairBot.exe.config
+G:\work\VSwork\C# working\site scraping\BetFair\BetFair\Nordicbet\bin\Release\BetfairBot.exe
+G:\work\VSwork\C# working\site scraping\BetFair\BetFair\Nordicbet\bin\Release\BetfairBot.pdb
+G:\work\VSwork\C# working\site scraping\BetFair\BetFair\Nordicbet\obj\Release\BetfairBot.exe
+G:\work\VSwork\C# working\site scraping\BetFair\BetFair\Nordicbet\obj\Release\BetfairBot.pdb
+G:\work\VSwork\C# working\site scraping\BetFair\BetFair\Nordicbet\obj\Release\Nordicbet.csprojResolveAssemblyReference.cache
+E:\work\VSwork\C# working\site scraping\BetFair\BetFair\Nordicbet\bin\Release\BetfairBot.exe.config
+E:\work\VSwork\C# working\site scraping\BetFair\BetFair\Nordicbet\obj\Release\BetfairBot.exe
+E:\work\VSwork\C# working\site scraping\BetFair\BetFair\Nordicbet\obj\Release\BetfairBot.pdb
+E:\work\VSwork\C# working\site scraping\BetFair\BetFair\Nordicbet\bin\Release\BetfairBot.exe
+E:\work\VSwork\C# working\site scraping\BetFair\BetFair\Nordicbet\bin\Release\BetfairBot.pdb
+E:\work\VSwork\C# working\site scraping\BetFair\BetFair\Nordicbet\bin\Release\Api-ng-sample-code.dll
+E:\work\VSwork\C# working\site scraping\BetFair\BetFair\Nordicbet\bin\Release\Newtonsoft.Json.dll
+E:\work\VSwork\C# working\site scraping\BetFair\BetFair\Nordicbet\obj\Release\Nordicbet.csprojResolveAssemblyReference.cache
+E:\work\VSwork\C# working\site scraping\BetFair\BetFair\Nordicbet\obj\Release\Nordicbet.frmAlert.resources
+E:\work\VSwork\C# working\site scraping\BetFair\BetFair\Nordicbet\obj\Release\Nordicbet.frmMain.resources
+E:\work\VSwork\C# working\site scraping\BetFair\BetFair\Nordicbet\obj\Release\Nordicbet.frmSetting.resources
+E:\work\VSwork\C# working\site scraping\BetFair\BetFair\Nordicbet\obj\Release\Nordicbet.frmStake.resources
+E:\work\VSwork\C# working\site scraping\BetFair\BetFair\Nordicbet\obj\Release\Nordicbet.Properties.Resources.resources
+E:\work\VSwork\C# working\site scraping\BetFair\BetFair\Nordicbet\obj\Release\Nordicbet.csproj.GenerateResource.Cache
+E:\work\workspace_C#\Betting\BetFair\Nordicbet\bin\Release\BetfairBot.exe.config
+E:\work\workspace_C#\Betting\BetFair\Nordicbet\obj\Release\BetfairBot.exe
+E:\work\workspace_C#\Betting\BetFair\Nordicbet\obj\Release\BetfairBot.pdb
+E:\work\workspace_C#\Betting\BetFair\Nordicbet\bin\Release\BetfairBot.exe
+E:\work\workspace_C#\Betting\BetFair\Nordicbet\bin\Release\BetfairBot.pdb
+E:\work\workspace_C#\Betting\BetFair\Nordicbet\bin\Release\Api-ng-sample-code.dll
+E:\work\workspace_C#\Betting\BetFair\Nordicbet\bin\Release\Newtonsoft.Json.dll
+E:\work\workspace_C#\Betting\BetFair\Nordicbet\obj\Release\Nordicbet.frmAlert.resources
+E:\work\workspace_C#\Betting\BetFair\Nordicbet\obj\Release\Nordicbet.frmMain.resources
+E:\work\workspace_C#\Betting\BetFair\Nordicbet\obj\Release\Nordicbet.frmSetting.resources
+E:\work\workspace_C#\Betting\BetFair\Nordicbet\obj\Release\Nordicbet.frmStake.resources
+E:\work\workspace_C#\Betting\BetFair\Nordicbet\obj\Release\Nordicbet.Properties.Resources.resources
+E:\work\workspace_C#\Betting\BetFair\Nordicbet\obj\Release\Nordicbet.csproj.GenerateResource.Cache
+E:\work\C#  sample\Betting\BetFair\Nordicbet\bin\Release\BetfairBot.exe.config
+E:\work\C#  sample\Betting\BetFair\Nordicbet\obj\Release\BetfairBot.exe
+E:\work\C#  sample\Betting\BetFair\Nordicbet\obj\Release\BetfairBot.pdb
+E:\work\C#  sample\Betting\BetFair\Nordicbet\bin\Release\BetfairBot.exe
+E:\work\C#  sample\Betting\BetFair\Nordicbet\bin\Release\BetfairBot.pdb
+E:\work\C#  sample\Betting\BetFair\Nordicbet\bin\Release\Api-ng-sample-code.dll
+E:\work\C#  sample\Betting\BetFair\Nordicbet\bin\Release\Newtonsoft.Json.dll
+E:\work\C#  sample\Betting\BetFair\Nordicbet\obj\Release\Nordicbet.csprojResolveAssemblyReference.cache
+E:\work\C#  sample\Betting\BetFair\Nordicbet\obj\Release\Nordicbet.frmAlert.resources
+E:\work\C#  sample\Betting\BetFair\Nordicbet\obj\Release\Nordicbet.frmMain.resources
+E:\work\C#  sample\Betting\BetFair\Nordicbet\obj\Release\Nordicbet.frmSetting.resources
+E:\work\C#  sample\Betting\BetFair\Nordicbet\obj\Release\Nordicbet.frmStake.resources
+E:\work\C#  sample\Betting\BetFair\Nordicbet\obj\Release\Nordicbet.Properties.Resources.resources
+E:\work\C#  sample\Betting\BetFair\Nordicbet\obj\Release\Nordicbet.csproj.GenerateResource.Cache

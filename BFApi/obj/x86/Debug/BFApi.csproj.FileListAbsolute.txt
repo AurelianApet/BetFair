@@ -1,0 +1,13 @@
+E:\Freelancer\BetFair_Arb\BFTradeCopier\BFApi\bin\Debug\BFApi.dll
+E:\Freelancer\BetFair_Arb\BFTradeCopier\BFApi\bin\Debug\BFApi.pdb
+E:\Freelancer\BetFair_Arb\BFTradeCopier\BFApi\bin\Debug\Newtonsoft.Json.dll
+E:\Freelancer\BetFair_Arb\BFTradeCopier\BFApi\bin\Debug\Newtonsoft.Json.pdb
+E:\Freelancer\BetFair_Arb\BFTradeCopier\BFApi\obj\x86\Debug\BFApi.csprojResolveAssemblyReference.cache
+E:\Freelancer\BetFair_Arb\BFTradeCopier\BFApi\obj\x86\Debug\BFApi.dll
+E:\Freelancer\BetFair_Arb\BFTradeCopier\BFApi\obj\x86\Debug\BFApi.pdb
+G:\work\VSwork\C# working\site scraping\BetFair\BetFair\BFApi\bin\Debug\BFApi.dll
+G:\work\VSwork\C# working\site scraping\BetFair\BetFair\BFApi\bin\Debug\BFApi.pdb
+G:\work\VSwork\C# working\site scraping\BetFair\BetFair\BFApi\bin\Debug\Newtonsoft.Json.dll
+G:\work\VSwork\C# working\site scraping\BetFair\BetFair\BFApi\obj\x86\Debug\BFApi.csprojResolveAssemblyReference.cache
+G:\work\VSwork\C# working\site scraping\BetFair\BetFair\BFApi\obj\x86\Debug\BFApi.dll
+G:\work\VSwork\C# working\site scraping\BetFair\BetFair\BFApi\obj\x86\Debug\BFApi.pdb

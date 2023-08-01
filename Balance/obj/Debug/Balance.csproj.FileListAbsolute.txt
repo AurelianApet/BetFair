@@ -1,0 +1,33 @@
+E:\Freelancer\SbobetBot\SbobetBot\Balance\bin\Debug\Balance.exe.config
+E:\Freelancer\SbobetBot\SbobetBot\Balance\bin\Debug\Balance.exe
+E:\Freelancer\SbobetBot\SbobetBot\Balance\bin\Debug\Balance.pdb
+E:\Freelancer\SbobetBot\SbobetBot\Balance\bin\Debug\HtmlAgilityPack.dll
+E:\Freelancer\SbobetBot\SbobetBot\Balance\obj\Debug\Balance.frmMain.resources
+E:\Freelancer\SbobetBot\SbobetBot\Balance\obj\Debug\Balance.Properties.Resources.resources
+E:\Freelancer\SbobetBot\SbobetBot\Balance\obj\Debug\Balance.csproj.GenerateResource.Cache
+E:\Freelancer\SbobetBot\SbobetBot\Balance\obj\Debug\Balance.exe
+E:\Freelancer\SbobetBot\SbobetBot\Balance\obj\Debug\Balance.pdb
+E:\Freelancer\SbobetBot\SbobetBot\Balance\obj\Debug\Balance.csprojResolveAssemblyReference.cache
+G:\work\VSwork\C# working\site scraping\SbobetBot\DafabteBot\Balance\bin\Debug\Balance.exe.config
+G:\work\VSwork\C# working\site scraping\SbobetBot\DafabteBot\Balance\bin\Debug\Balance.exe
+G:\work\VSwork\C# working\site scraping\SbobetBot\DafabteBot\Balance\bin\Debug\Balance.pdb
+G:\work\VSwork\C# working\site scraping\SbobetBot\DafabteBot\Balance\bin\Debug\HtmlAgilityPack.dll
+G:\work\VSwork\C# working\site scraping\SbobetBot\DafabteBot\Balance\obj\Debug\Balance.csprojResolveAssemblyReference.cache
+G:\work\VSwork\C# working\site scraping\SbobetBot\DafabteBot\Balance\obj\Debug\Balance.frmMain.resources
+G:\work\VSwork\C# working\site scraping\SbobetBot\DafabteBot\Balance\obj\Debug\Balance.Properties.Resources.resources
+G:\work\VSwork\C# working\site scraping\SbobetBot\DafabteBot\Balance\obj\Debug\Balance.csproj.GenerateResource.Cache
+G:\work\VSwork\C# working\site scraping\SbobetBot\DafabteBot\Balance\obj\Debug\Balance.exe
+G:\work\VSwork\C# working\site scraping\SbobetBot\DafabteBot\Balance\obj\Debug\Balance.pdb
+G:\work\VSwork\C# working\site scraping\BetFair\BetFair\Balance\obj\Debug\Balance.csprojResolveAssemblyReference.cache
+G:\work\VSwork\C# working\site scraping\BetFair\BetFair\Balance\obj\Debug\Balance.frmMain.resources
+G:\work\VSwork\C# working\site scraping\BetFair\BetFair\Balance\obj\Debug\Balance.Properties.Resources.resources
+G:\work\VSwork\C# working\site scraping\BetFair\BetFair\Balance\obj\Debug\Balance.csproj.GenerateResource.Cache
+G:\work\VSwork\C# working\site scraping\BetFair\BetFair\Balance\obj\Debug\Balance.exe
+G:\work\VSwork\C# working\site scraping\BetFair\BetFair\Balance\bin\Debug\Balance.exe.config
+G:\work\VSwork\C# working\site scraping\BetFair\BetFair\Balance\bin\Debug\Balance.exe
+G:\work\VSwork\C# working\site scraping\BetFair\BetFair\Balance\bin\Debug\Balance.pdb
+G:\work\VSwork\C# working\site scraping\BetFair\BetFair\Balance\obj\Debug\Balance.pdb
+G:\work\VSwork\C# working\site scraping\BetFair\BetFair\Balance\bin\Debug\BeloSoft.Betfair.API.dll
+G:\work\VSwork\C# working\site scraping\BetFair\BetFair\Balance\bin\Debug\BeloSoft.Data.dll
+G:\work\VSwork\C# working\site scraping\BetFair\BetFair\Balance\bin\Debug\BFApi.dll
+G:\work\VSwork\C# working\site scraping\BetFair\BetFair\Balance\bin\Debug\BFApi.pdb
